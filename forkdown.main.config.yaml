@@ -1,0 +1,28 @@
+name: "Final Fantasy III Checklist"
+
+externalLinks:
+  defaultUrl: https://finalfantasy.fandom.com/wiki/
+  rewrites:
+    - pattern: Azrael|Berserker|Carbuncle|Eater|Fury|Killer Bee|Salamander|Lemur|Basilisk|Vulcan|Cockatrice|Duster|Ouroboros|Sea Dragon|Werewolf
+      rewrite: $0 (Final Fantasy III)
+    - pattern: Bestiary|MogNet|Nautilus|Takka|Invincible
+      rewrite: $0 (Final Fantasy III)
+    - pattern: Falgabard|Gysahl|Sewers|Sunken Cave
+      rewrite: $0 (Final Fantasy III)
+    - pattern: Onion Knight
+      rewrite: $0 (Final Fantasy III)
+    - pattern: Leather Cap|Bronze Bracers
+      rewrite: Final_Fantasy_III_armor#$0
+    - pattern: Longsword
+      rewrite: Final_Fantasy_III_weapons#$0
+    - pattern: Floating Continent
+      rewrite: Final_Fantasy_III_locations#$0
+    - pattern: Magic Key
+      rewrite: $0#Final_Fantasy_III
+    - pattern: Sleep|Blizzaga
+      rewrite: $0 (ability)#Final_Fantasy_III
+    - pattern: HP|Vitality
+      rewrite: $0 (stat)#Final_Fantasy_III
+    - [ "Princess Sara", "Sara_Altney" ]
+    - [ "jobs?", Final_Fantasy_III_jobs ]
+    - [ " ", "_" ]
