@@ -44,7 +44,11 @@
   * Unei
     * [Temple of Time]
     * [Ancient Ruins]
+    * [Falgabard]
 * General
   * [Gameplay]
     * [MogNet]
   * [Reference]
+* About
+  * [This guide]
+  * [Sources]
