@@ -16,7 +16,8 @@ Optional dungeon in the mountains west of [Castle Argus], accessible with [Invin
   * [White Musk]
   * [Aegis Shield], [Platinum Hammer], [Turtle Shell], [Bacchu's Cider]
 - Level 3:
-  * [Platinum Hammer], [Black Hole], [Reflect Mail], [Black Musk]
+  * [Platinum Hammer], [Black Hole], [Reflect Mail]
+  * [Black Musk]
   * [Lilith's Kiss], [Raven's Yawn]
 ##### `beast` Enemies
 * [Ouroboros]
@@ -42,13 +43,10 @@ Optional dungeon in the southeast corner of the [Floating Continent], accessible
   * [Golem Staff]
   * [White Musk]
   * [Bacchu's Cider]
-  * [Turtle Shell]
-  * [Chocobo's Wrath]
+  * [Chocobo's Wrath], [Turtle Shell]
 - Level 3:
   * [Eurytos Bow]
-  * [Phoenix Down]
-  * [Elixir]
-  * [Kotetsu]
+  * [Phoenix Down], [Elixir], [Kotetsu]
 ##### `beast` Enemies
 * [Drake]
 * Level 1: [Grenade]

@@ -40,7 +40,7 @@
 
 `quest` Check [MogNet] as [Refia] after completing the dungeon to continue the [Legendary Smith] side-quest.
 
-`i` Completing the ruins gives you the means to access [Bahamut's Lair] on the [Floating Continent].
+`i` Completing the ruins gives you the means to access [Bahamut's Lair] and [Lake Dhor] on the [Floating Continent].
 
 :::{:columns=small}
 ##### `chest` Chests
@@ -126,7 +126,7 @@ Located in the mountains in the middle of the easter continent.
 
 Accessed through [Doga's Manor] after completing [Cave of Shadows].
 
-`w` This location, with all the chests and monsters in it, becomes permanently unavailable after defeating the boss.
+`w` This location, with all the chests and monsters in it, becomes permanently unavailable once you leave after defeating the boss.
 
 `i` Level 3 is split into four parts (two of which are rooms).
 
@@ -141,7 +141,6 @@ Accessed through [Doga's Manor] after completing [Cave of Shadows].
 - Level 4:
   * [Phoenix Down]
   * [Phoenix Down]
-* `boss` Level 5: [Doga], [Unei]
 ##### `beast` Enemies
 * [Peryton]
   Guaranteed in [Sunken Cave].
@@ -149,4 +148,5 @@ Accessed through [Doga's Manor] after completing [Cave of Shadows].
 * [Cyclops]
 * [Nemesis]
 * [Humbaba]
+* `boss beast` Level 5: [Doga], [Unei]
 :::
