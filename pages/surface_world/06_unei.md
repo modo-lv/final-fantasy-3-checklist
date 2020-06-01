@@ -55,9 +55,12 @@
 * [Pyralis]
 * [Azrael]
 * [Eater]
+  Guaranteed in [Sunken Cave].
 - Levels 4-7:
   * [Silenus]
   * [Gaap]
+  * [Zombie Dragon]
+    Rare encounter; guaranteed in [Sunken Cave].
 :::
 
 
@@ -68,17 +71,82 @@ Optional village southwest of [Saronia], slightly north of [Unei's Shrine].
 `quest item` Come here after acquiring [Orichalcum] and finishing [Doga's Grotto], and talk to the [Legendary Smith] to receive [Ultima Weapon] and finish her questline.
 
 :::{:columns=small}
-##### `item` Items
-`x` Small island in the center of the town.
-* [Demon Mail]
-* [Hi-Potion]
-* [Demon Shield]
-* [Blessed Hammer]
+#### Waterfall cave
+`x` Walk into the side of the waterfall in the northeast corner of the town.
 
-#### Cave
-* 1 [Blessed Hammer]
-* 1 [Demon Mail]
-* 1 [Ashura]
-* 1 [Kotetsu]
 * `beast boss` [Shinobi]
+
+* `item` [Demon Mail], [Hi-Potion], [Demon Shield], [Blessed Hammer]
+
+  `x` Small island reachable by waterway.
+
+#### `chest` Cave
+* [Blessed Hammer]
+* [Demon Mail]
+* [Ashura], [Kotetsu]
+:::
+
+
+## [Cave of Shadows](@~) {##~}
+
+Located in the mountains in the middle of the easter continent.
+
+:::{:columns=small}
+##### `chest` Items
+- Level 1:
+  * [Black Musk]
+  * [Dark Claws]
+  * `item` [Kotetsu]
+    
+    `x` Talk to the second dark knight, near the exit to level 2.
+- Level 2:
+  * [Tranquilizer]
+  * [Lilith's Kiss]
+* Level 4: [Genji Gloves]
+* Level 6: [Kiku-Ichimonji]
+* Level 7: [Genji Shield]
+* Level 8: [Genji Helm]
+* Level 9: [Genji Armor]
+##### `beast` Enemies
+- Levels 1 & 3+:
+  * [Valefor]
+  * [Haniel]
+- Levels 2+:
+  * [Hellish Horse]
+  * [Vassago]
+* Levels 3+: [Chronos]
+* Levels 6-9: [Death Claw]
+  Guaranteed in [Sunken Cave].
+* `boss` Level 9: [Hecatoncheir]
+:::
+
+
+
+## [Doga's Grotto](@~) {##~}
+
+Accessed through [Doga's Manor] after completing [Cave of Shadows].
+
+`w` This location, with all the chests and monsters in it, becomes permanently unavailable after defeating the boss.
+
+`i` Level 3 is split into four parts (two of which are rooms).
+
+:::{:columns=small}
+##### `chests` Chests
+- Level 2:
+  * $10000
+  * $10000
+- Level 3:
+  * [Rising Sun], [White Musk], [Lust Dagger]
+  * [Chocobo's Wrath]
+- Level 4:
+  * [Phoenix Down]
+  * [Phoenix Down]
+* `boss` Level 5: [Doga], [Unei]
+##### `beast` Enemies
+* [Peryton]
+  Guaranteed in [Sunken Cave].
+* [Ogre]
+* [Cyclops]
+* [Nemesis]
+* [Humbaba]
 :::

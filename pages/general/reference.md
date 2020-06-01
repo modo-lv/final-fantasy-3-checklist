@@ -19,7 +19,7 @@ Legendary Smith is the source of [Ultima Weapon] and job-specific [ultimate weap
 
 * Once you complete the [Doga's Grotto], talk to the smith in [Falgabard]. After that she will continue to appear randomly in one of several places, see [the wiki](Legendary_Smith#The_smith.27s_locations) for details.
 
-## Job [Vitality] {##job_vitality}
+## Job [Vitality] {##~}
 
 [Vitality] at character level 90:
 * 90: [Black Belt] (becomes available quite late in the game)

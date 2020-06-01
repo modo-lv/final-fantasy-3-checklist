@@ -1,8 +1,8 @@
-# About
+# Final Fantasy III checklist
 
-## This guide {##~}
+## About this guide {##about}
 
-This is a complete, spoiler-free (as much as possible) checklist of things in [Final Fantasy III (Steam version)](https://store.steampowered.com/app/239120/FINAL_FANTASY_III/) to help you track progress and avoid missing anything. It's not a walkthrough or a strategy guide, although it does contain some instructions on getting things you could miss otherise. If you complete everything in this checklist, including the optional stuff, you will have collected every item in the game (100% treasure chest completion), encountered every enemy (100% bestiary completion) and completed every sidequest. This should also net you most of the [achievements](https://steamcommunity.com/stats/239120/achievements) with the exception of "Jack Of All Trades" (level up all jobs for all characters to 99).
+This is a spoiler-free (as much as possible) checklist for [Final Fantasy III (Steam version)](https://store.steampowered.com/app/239120/FINAL_FANTASY_III/) to help you track progress and avoid missing anything. It's not a walkthrough or a strategy guide, although it does contain some instructions on getting things you could miss otherise. If you complete everything in this checklist, including the optional stuff, you will have collected every item in the game (100% treasure chest completion), encountered every enemy (100% bestiary completion) and completed every sidequest. This should also net you most of the [achievements](https://steamcommunity.com/stats/239120/achievements) with the exception of "Jack Of All Trades" (level up all jobs for all characters to 99).
 
 A couple of notes:
 

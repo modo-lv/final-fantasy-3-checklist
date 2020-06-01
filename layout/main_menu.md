@@ -8,23 +8,24 @@
     * [Sealed Cave]
     * [Canaan]
     * [Dragon's Peak]
-  * Tozus to Nepto Temple
+  * Tozus to Tower of Owen
     * [Tozus]
     * [Viking's Cove]
     * [Nepto Temple]
-  * Tokkul to Tower of Owen
     * [Tokkul]
-    * [Village of the Ancients]
-    * [Castle Argus]
+    * [Village of the Ancients] (optional)
     * [Gulgan Gulch]
     * [Tower of Owen]
-  * [Gysahl]
-  * Dwarven Hollows to Castle Hein
+  * [Gysahl] (optional)
+  * Caves and castles
     * [Dwarven Hollows]
     * [Subterranean Lake]
     * [Molten Cave]
     * [Castle Hein]
-  * [Bahamut's Lair]
+    * [Castle Argus]
+  * Invincible (optional)
+    * [Lake Dhor]
+    * [Bahamut's Lair]
 * Surface World
   * [World Map](surface_world)
   * Arrival
@@ -33,22 +34,29 @@
   * Amur to Replito
     * [Amur]
     * [Goldor Manor]
-    * [Duster]
-    * [Replito]
-  * Saronia and Doga
+    * [Duster] (optional)
+    * [Replito] (optional)
+  * Saronia & Doga
     * [Saronia]
     * [Cave of the Circle]
-  * Underwater
+  * Underwater (optional)
     * [Sunken Cave]
     * [Saronia Catacombs]
   * Unei
     * [Temple of Time]
     * [Ancient Ruins]
-    * [Falgabard]
+    * [Falgabard] (optional)
+    * [Cave of Shadows]
+    * [Doga's Grotto]
 * General
   * [Gameplay]
-    * [MogNet]
+    * [Stats and leveling](gameplay_stats)
+    * [Job highlights](gameplay_jobs)
   * [Reference]
+    * [MogNet]
+      * [Getting Onion Knight]
+      * [Legendary Smith]
+    * [Job Vitality]
 * About
-  * [This guide]
+  * [This guide](about)
   * [Sources]

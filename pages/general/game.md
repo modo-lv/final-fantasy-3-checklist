@@ -1,19 +1,19 @@
-# Gameplay {##game .#~}
+# Gameplay {##game .#~ :columns}
 
-## [Jobs], stats and leveling {:columns}
+## Stats and leveling {##gameplay_stats}
 
 ### Leveling
 Characters level up by gaining *EXP*, while jobs are leveled up by performing *actions* (any except running away or changing formation) in combat. It takes between 5 and 10 actions (depending on the job and job level) to gain one job level (except for [Onion Knight]s, who need 13 actions after reaching level 14).
 
 ### Stats
-All stats except [HP] (see below) are determined by your character level and job (but *not* job level). Each job has a predetermined stat values for each character level, so switching jobs will change the character's stats according to their level and what the new job is.
+All stats except [HP] (see below) are determined by your character level and job (but *not* job level). Each job has predetermined stat values for each character level, so switching jobs will change the character's stats according to their level and what the new job is.
 
 #### [HP]
-[HP] is the only permanent stat that doesn't change when switching jobs. It's determined by the character's [Vitality] (+ some randomness) at the moment of leveling up. So if a character is is lagging behind in HP, assign them a high-[Vitality] job to catch them up (see [the relevant reference section](job_vitality) for details on job [Vitality]).
+[HP] is the only permanent stat that doesn't change when switching jobs. It's determined by the character's [Vitality] (+ some randomness) at the moment of leveling up. So, if a character is starting to lag behind others in HP, assigning them a high-[Vitality] job will let catch up with further level-ups (see [the relevant reference section](job_vitality) for details on job [Vitality]).
 
-For more in-depth info, see the [Job Stats FAQ on GameFAQs](https://gamefaqs.gamespot.com/ds/924897-final-fantasy-iii/faqs/46045).
 
-### Job highlights
+## Job highlights {##gameplay_jobs}
+For more in-depth info, see [this guide on GameFAQs](https://gamefaqs.gamespot.com/ds/924897-final-fantasy-iii/faqs/46045).
 * **[Freelancer]** is the default starting Job for all characters. Can use a wide variety of equipment and cast white and black magic, but has low stats and is made obsolete by [Red Mage].
 * **[Warrior]**, compared to other fighting jobs, deals more damage at lower levels but has low stat growth. Easily replaced by more versatile jobs.
 * **[Monk]** has highest raw physical attack damage in the game (until you acquire [Black Belt]), but very low magic defense.

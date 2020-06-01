@@ -20,21 +20,18 @@
 ## [Subterranean Lake](@~) {##~ :columns=small}
 
 ##### `chest` Chests
-- Level 1:
-  * 1 [Gold Needle]
+* Level 1: [Gold Needle]
 - Level 3:
-  * 1 [Zeus' Wrath]
-  * 1 [Zeus' Wrath]
-  * 1 [Gold Needle]
-  * 1 [Gold Needle]
-- Level 4:
-  * 2x $3000
+  * [Zeus' Wrath]
+  * [Zeus' Wrath]
+  * [Gold Needle]
+  * [Gold Needle]
+* Level 4: 2x $3000
 ##### `beast` Enemies
 - Levels 1-3:
   * [Bomb]
   * [Manticore]
-- Levels 2-3:
-  * [Stalagmite]
+* Levels 2-3: [Stalagmite]
 - Level 4:
   * [Sea Devil]
   * [Merman]
@@ -42,8 +39,8 @@
 
 
 
-## [Molten Cave](@~) {##~}
-
+## [Molten Cave](@~) {##~ :columns=small}
+##### `chest` Chests
 - Level 1:
   * 1 [Antarctic Wind] (safe)
   * 1 [Antarctic Wind] (through lava)
@@ -67,16 +64,16 @@
 * [Crocotta]
 * [Adamantoise]
 * [Red Marshmallow]
-- Level 2 and up:
-  * [Myrmecoleon]
+* Levels 2+: [Myrmecoleon]
 
 
- 
 ## [Castle Hein](@~) {##~}
 
 `w` This location becomes permanently unavailable after defeating the boss, along with all the listed enemies and chests.
 
 `i` There's an [HP]/[MP] recovery point in the rightmost room on level 1.
+
+`x` Entered automatically by going to [Tokkul] after finishing the story in [Dwarven Hollows] (including [Molten Cave]).
 
 ::: {:columns=small}
 ##### `chest` Chests
@@ -88,22 +85,27 @@
   * $3000, [Bomb Fragment]
   * $3000, [Antarctic Wind]
   * $3000, [Zeus' Wrath]
-- Level 4:
-  * [Royal Sword]
-- Level 5 (outside):  
-  * [Phoenix Down]
+* Level 4: [Royal Sword]
+* Level 5 (outside): [Phoenix Down]
 - Level 6:
   * [Elixir]
   * [Rune Bow]
 ##### `beast` Enemies
-- Levels 2-3 & 5-6:
-  * [Lemur]
-- Levels 2-4:
-  * [Demon]
-- Levels 2-6:
-  * [Pharaoh]
-- Level 4:
-  * [Dullahan]
-- Levels 5-6:
-  * [Lamia]
+* Levels 2-3 & 5-6: [Lemur]
+* Levels 2-4: [Demon]
+* Levels 2-6: [Pharaoh]
+* Level 4: [Dullahan]
+* Levels 5-6: [Lamia]
 :::
+
+
+## `chest` [Castle Argus](@~) {##~}
+
+Located on the east edge of the western landmass.
+
+* Entrance: 3x $1000
+  * 2x $100, 3x $1000, $1500
+* West tower: [Light Arrow], [Killer Bow], [Medusa Arrows]
+* East tower: [Fire Arrow], [Ice Arrow], [Book of Ice], [Book of Fire], [Book of Light], [Scholar Robe]
+* Throne room: [Bomb Fragment], [Antarctic Wind]
+  * [Arctic Wind]

@@ -6,8 +6,7 @@
 
 :::{:columns=small}
 ##### `chest` Chests
-- Level 1:
-  * [Leather Cap], [Bronze Bracers]
+* Level 1: [Leather Cap], [Bronze Bracers]
 - Level 2:
   * [Longsword]
   * [Bronze Bracers], [Sleep]
@@ -28,8 +27,8 @@
   
 
 
-## [Ur](@~) {##~}
-* [Phoenix Down] (trade for a [Potion])
+## `chest` [Ur](@~) {##~}
+* `item` [Phoenix Down] (trade for a [Potion])
 
   `x` Talk to the blue-robed elder near the entrance after you've talked to [Topapa].
 * 3x [Potion]
@@ -79,8 +78,7 @@
 - Level 1:
   * [Potion]
   * [Cure]
-- Level 2:
-  * $500
+* Level 2: $500
 - Level 3:
   * [Antarctic Wind]
   * [Eye Drops]
@@ -94,7 +92,7 @@
 :::
 
 
-## [Canaan](@~) {##~}
+## `chest` [Canaan](@~) {##~}
 
 * `item` [Mallet]
 * `item` [Gold Needle]
