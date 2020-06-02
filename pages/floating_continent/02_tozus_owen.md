@@ -1,8 +1,9 @@
 :{:checklist :columns}
 
 
-## `item` [Tozus](@~) {##~}
+## `item` [Tozus](@~) {##~ :columns=small}
 
+#### Village
 * [Mythril Bracers], [Fire Staff], [Fira]
 * [Cura]
 
@@ -50,6 +51,7 @@ Optional town at the southwest edge of the continent.
   
   `x` Talk to the read-headed boy in the crevice west of the inn, then go out to the Chocobo forest next to the village, and ride a chocobo along the edge of the continent all the way around.
 * [Serpent Sword]
+
   `x` North of the well, about halfway to the stairs.
  
  

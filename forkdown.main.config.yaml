@@ -8,19 +8,19 @@ externalLinks:
     - [ "Diamond Mail", "Diamond Armor" ]
     - [ "Princess Sara", "Sara_Altney" ]
     # Enemies
-    - pattern: Azrael|Berserker|Carbuncle|Dira|Eater|Fury|Killer Bee|Salamander|Lemur|Basilisk|Vulcan|Cockatrice|Duster|Ouroboros|Sea Dragon|Werewolf
+    - pattern: Abaia|Azrael|Berserker|Carbuncle|Dira|Eater|Fury|Killer Bee|Salamander|Lemur|Basilisk|Vulcan|Cockatrice|Duster|Ouroboros|Sea Dragon|Werewolf|Yellow Dragon
       rewrite: $0 (Final Fantasy III)
     # Bosses
     - pattern: Shinobi
       rewrite: $0 (Final Fantasy III)
     # Locations
-    - pattern: Falgabard|Gysahl|Sewers|Sunken Cave
+    - pattern: \?\?\?|Falgabard|Gysahl|Sewers|Sunken Cave
       rewrite: $0 (Final Fantasy III)
     # Misc.
     - pattern: Bestiary|MogNet|Nautilus|Takka|Invincible
       rewrite: $0 (Final Fantasy III)
     # Jobs
-    - pattern: Onion Knight
+    - pattern: Black Belt|Dark Knight|Onion Knight|Knight|Sage
       rewrite: $0 (Final Fantasy III)
     # Armor
     - pattern: Leather Cap|Bronze Bracers

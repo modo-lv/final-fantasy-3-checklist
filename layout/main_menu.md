@@ -48,10 +48,17 @@
     * [Falgabard] (optional)
     * [Cave of Shadows]
     * [Doga's Grotto]
-* General
+  * Final stretch
+    * [Ancients' Maze]
+    * [Eureka] (optional)
+    * [???](bonus) (optional)
+  * Endgame
+    * [Crystal Tower]
+    * [World of Darkness]
+* Info
   * [Gameplay]
     * [Stats and leveling](gameplay_stats)
-    * [Job highlights](gameplay_jobs)
+    * [Jobs](gameplay_jobs)
   * [Reference]
     * [MogNet]
       * [Getting Onion Knight]
