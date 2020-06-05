@@ -1,32 +1,20 @@
-# Gameplay {##game .#~ :columns}
-
-## Stats and leveling {##gameplay_stats}
-
-### Leveling
-Characters level up by gaining *EXP*, while jobs are leveled up by performing *actions* (any except running away or changing formation) in combat. It takes between 5 and 10 actions (depending on the job and job level) to gain one job level (except for [Onion Knight]s, who need 13 actions after reaching level 14).
-
-### Stats
-All stats except [HP] (see below) are determined by your character level and job (but *not* job level). Each job has predetermined stat values for each character level, so switching jobs will change the character's stats according to their level and what the new job is.
-
-#### [HP]
-[HP] is the only permanent stat that doesn't change when switching jobs. It's determined by the character's [Vitality] (+ some randomness) at the moment of leveling up. So, if a character is starting to lag behind others in HP, assigning them a high-[Vitality] job will let catch up with further level-ups (see [the relevant reference section](job_vitality) for details on job [Vitality]).
-
-
-## Jobs {##gameplay_jobs}
+# Jobs {##gameplay_jobs}
 
 You acquire most jobs by interacting with elemental crystals throughout the main story.
 
-For more in-depth info on job stats, see [the wiki](Final_Fantasy_III_jobs) and/or [this guide on GameFAQs](https://gamefaqs.gamespot.com/ds/924897-final-fantasy-iii/faqs/46045).
+For more in-depth info on job stats, see [the wiki](Final_Fantasy_III_jobs) and/or [this guide](https://gamefaqs.gamespot.com/ds/924897-final-fantasy-iii/faqs/46045).
 
-* **[Freelancer]** is the default starting job for all characters. Can use a wide variety of equipment and cast white and black magic, but has low stats and is made obsolete by [Red Mage].
-* **[Onion Knight]**: a job meant for the endgame, must be acquired in a side-quest (see [Getting Onion Knight]). Has virtually unsuable stats for the first 95 character levels and the slowest job leveling of all, but in the last 4 character levels, all stats are rapidly increased and maxed out (99) at level 99. [Onion Knights] also have the best job-specific equipment (accessible near the end of the game) and can use all weapons, armor and regular magic of all levels.
+## Descriptions
+
+* **[Freelancer]** is the default starting job for all characters. Can use a wide variety of equipment and cast level 1 black and white magic, but has low stats and is made obsolete by [Red Mage].
+* **[Onion Knight](@~){##~}**: a job meant for the endgame, must be [acquired in a side-quest](getting_onion_knight). Has virtually unsuable stats for the first 95 character levels and the slowest job leveling of all, but in the last 4 character levels, all stats are rapidly increased and maxed out (99) at level 99. Onion Knights also have the best job-specific equipment (dropped by enemies in [???](bonus)) and can use all weapons, armor and regular magic of all levels.
 ##### [Wind Crystal] (early game)
-* **[Warrior]**, compared to other fighting jobs, deals more damage at lower levels but has low stat growth. Easily replaced by more versatile jobs.
-* **[Monk]** has highest raw physical attack damage in the game (until you acquire [Black Belt]), but very low magic defense and can be outperformed by [Dragoon]s.
-* **[White Mage]** can use nearly all (up to level 7) [white magic] spells, mainly healing and — at higher levels — reviving characters. MP is very limited for higher spell levels; replaced by [Devout] in the endgame.
-* **[Black Mage]** can use nearly all (up to level 7) [black magic] spells. MP is limited for higher spell levels; replaced by [Magus] in the endgame.
+* **[Warrior]** is the first melee-focused job that excels at physical damage. The [Advance] skill increases damage and reduces defense (by 50%-140%, depending on the job level) for the next turn.
+* **[Monk]s** are great at fighting bare-handed (or with claw weapons at lower levels) due to +2 bare-handed attack per job level and have the highest physical defense & [HP] growth available at this point. Their [Retaliate] skill is basically "Guard" command with a 200% damage counter-attack if struck. They can't wear any armor and are very weak to magic damage.
+* **[White Mage]** can use nearly all (up to level 7) [white magic] spells, mainly healing and (at higher levels) reviving characters, but [MP] is very limited for higher spell levels.
+* **[Black Mage]** can use nearly all (up to level 7) [black magic] spells, but MP is limited for higher spell levels.
 * **[Red Mage]** is the most versatile job with a wide variety of available equipment, decent all-around damage and defense, and the use of both white and black magic spells up to level 5.
-* **[Thief]** can steal items from enemies and, if placed in the top party slot, open locked doors without using [Magic Key]s. However, there aren't many doors in the game and the keys can be bought for cheap at a special shop available soon after encountering the first locks. The only unique item that is available only by stealing is the [Gungnir] spear from [Odin] in [Saronia Catacombs], but the Thief must be at job level of at least 71.
+* **[Thief]** almost always acts first in a battle, can steal items from enemies and, if placed in the top party slot, open locked doors without using [Magic Key]s. However, he isn't impressive damage-wise and there aren't many doors in the game (and the keys can be bought at a special shop available soon after encountering the first locks). The only unique item that is available only by stealing is the [Gungnir] spear from [Odin] in [Saronia Catacombs], but the [Thief] must be at job level 71 or higher.
 ##### [Fire Crystal] (mid game)
 * **[Ranger]** can use heavy armor and do full damage with a bow from the back row, and exploit enemies' elemental weaknesses by using different arrows.
 * **[Knight]s** have the best physical damage resistance due to their high [Vitality] and can equip most swords and armor, and cast level 1 [white magic]. They also automatically protect critically wounded party members from physical attacks by tanking the damage for themselves. Damage-wise they start to lag behind other melee classes in late game due to lack of new weapons.
@@ -39,7 +27,7 @@ For more in-depth info on job stats, see [the wiki](Final_Fantasy_III_jobs) and/
 * **[Evoker]** uses summoning magic for one of two random effects for each summon. For most summons, one effect damages enemies and the other casts status effects. Powerful when dealing damage, but unreliable because of the randomness.
 * **[Bard]** Bard uses [Sing] ability to assist the whole party (increase defense, increase attack, damage enemies, recover HP or reduce damage received), depending on what harp is equipped. This makes it the only job in the game that can heal a party without spending items or [MP] (by equipping [Dream Harp]), but the amount is only 10%-20% of maximum HP, depending on job level.
 ##### [Earth Crystal] (endgame):
-* **[Black Belt]**: natural upgrade for [Monk], has highest damage and [Vitality] in the entire game once leveled up, but can take time to get there and is very weak against magic.
+* **[Black Belt]**: natural upgrade for [Monk], has highest damage and [Vitality] in the entire game at higher levels (70+), but is outperformed by well- and is very weak against magic.
 * **[Magus]**: natural upgrade for [Black Mage], can use level 8 black magic.
 * **[Devout]**: natural upgrade for [White Mage], can use level 8 white magic, which includes [Arise] (reviving with full HP).
 * **[Summoner]**: natural upgrade for [Evoker], uses "High Summons" which have no randomness and just deal damage to all enemies.

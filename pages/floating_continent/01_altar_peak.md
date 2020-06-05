@@ -1,11 +1,13 @@
 :{:checklist :columns}
 
-## [Altar Cave](@~) {##~}
+## [Altar Cave](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7041-altar-cave) {##altar_cave}
 
-`i` You start the game on level 3 and can't go directly up; the upper levels can only be accessed by entering the cave from the [overworld](floating_continent).
+You start the game on level 3 and can't go directly up; the upper levels can only be accessed by entering the cave from the [world map](floating_continent).
+
+`i` There's an [HP]/[MP] [Wellspring] on level 4.
 
 :::{:columns=small}
-##### `chest` Chests
+##### Pickups
 * Level 1: [Leather Cap], [Bronze Bracers]
 - Level 2:
   * [Longsword]
@@ -19,37 +21,56 @@
   * [Potion]
   * [Potion]
   * [Antarctic Wind]
-##### `beast` Enemies
-* [Carbuncle]
-* [Eye Fang]
-* [Blue Wisp]
+##### Enemies
+* Levels 1-3: [Goblin]
+- Levels 2 & 4:
+  * [Carbuncle]
+  * [Eye Fang]
+  * [Blue Wisp]
+* `★` Level 5: [Land Turtle]
 :::
   
 
 
-## `chest` [Ur](@~) {##~}
-* `item` [Phoenix Down] (trade for a [Potion])
+## [Ur](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/8143-ur-village) {##ur}
+
+`i` The house with the blue roof contains [revive and recovery wellsprings](wellspring) and the [inn] here is for free.
+
+* `💬` [Phoenix Down] (trade for a [Potion])
 
   `x` Talk to the blue-robed elder near the entrance after you've talked to [Topapa].
+* `✨` [Potion]
+  
+  `x` Near the bottom edge of the pond in the NE corner of the village.
+* `✨` [Potion]
+  
+  `x` Near the top edge of the small pond in the NW corner of the village.
 * 3x [Potion]
 
   `x` Down the well.
-
 #### Storehouse
-* `item` 2x [Antidote]
+* `✨` 2x [Antidote]
 * [Eye Drops], [Phoenix Down], [Cure], [Dagger], [Longsword]
   
 
 
-## [Kazus](@~) {##~}
+## [Kazus](@~) {##kazus}
 
-* `item` [Potion] (inn)
-* `item` [Potion] (blacksmith)
+`i` The house with the blue roof contains a [revive wellspring] and the [inn] here is for free.
+
+- North of the pond:
+
+  `x` You can reach the pond by going left of the [wellspring] building.
+  * `✨` [Mythril Helm]
+  * `✨` [Staff]
+  * `✨` [Zeus's Wrath]
+* `✨` [Potion] (inn)
+* `✨` [Potion] (blacksmith)
 * 2x [Mythril Sword]
 
 
 
-## [Castle Sasune](@~) {##~}
+## [Castle Sasune](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7639-sasune-castle-map) {##castle_sasune}
 #### East tower
 * [Holy Arrow], [Wooden Arrow]
 * [Bow], [Wooden Arrow], [Potion]
@@ -58,23 +79,23 @@
 * 2x $1000
 * [Leather Shield], [Bronze Knuckles]
 * [Blizzard]
-####  West tower
-##### `chest` Chests
+####  West tower {:columns=small}
+##### Pickups 
 * [Holy Arrow], [Wooden Arrow]
-* `beast chest` [Wightslayer]
-
-  `w` Triggers a battle with a [Griffon].
-##### `beast` Enemies
+* [Wightslayer]
+  
+  `⚔️` [Griffon]
+##### Enemies
 * [Red Wisp]
 * [Dark Eye]
 * [Zombie]
   
 
   
-## [Sealed Cave](@~) {##~}
+## [Sealed Cave](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7049-sealed-cave) {##sealed_cave}
 
 ::: {:columns=small}
-##### `chest` Chests
+##### Pickups
 - Level 1:
   * [Potion]
   * [Cure]
@@ -82,25 +103,29 @@
 - Level 3:
   * [Antarctic Wind]
   * [Eye Drops]
-##### `beast` Enemies
+##### Enemies
 * [Mummy]
-* [Skeleton]
-* [Cursed Copper]
-* [Larva]
-* [Shadow]
-* [Revenant]
+* Levels 1-2: [Skeleton]
+* Levels 1 & 3: [Cursed Copper]
+* Levels 2-3: [Shadow]
+- Level 3:
+  * [Larva]
+  * [Revenant]
+    Rare.
 :::
 
 
-## `chest` [Canaan](@~) {##~}
+## [Canaan](@~) {##~}
 
-* `item` [Mallet]
-* `item` [Gold Needle]
 * [Elixir]
 
-  `x` In the bottom right corner of the village, reachable by waterway.
+  `x` In the SE corner of the village, reachable by waterway.
 
-### [Cid]'s basement
+#### Salina's House
+* `✨` [Mallet]
+* `✨` [Gold Needle]
+
+#### [Cid]'s basement
 `x` Accessed by finding [Elixir] and giving it to his wife.
 * [Blind], [Iron Arrow], [Great Bow], [Phoenix Down], 2x [Gnomish Bread], [Gold Needle], [Potion]
 * 2x $2000, 2x [Phoenix Down]
@@ -108,13 +133,14 @@
 
 
 ## [Dragon's Peak](@~) {##~ :columns=small}
-##### `chest` Chests
+##### Pickups
 * [Phoenix Down]
 * [Aero]
 * [Gold Needle]
 
-##### `beast` Enemies
+##### Enemies
 * [Firefly]
 * [Helldiver]
-* [Rust Bird]
 * [Rukh]
+* [Rust Bird]
+  Rare.

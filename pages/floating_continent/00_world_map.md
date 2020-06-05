@@ -1,10 +1,10 @@
 :{:checklist}
 
-## The [Floating Continent](@~) {##floating_continent .#~}
+# The [Floating Continent](@~) [🗺️](https://steamcommunity.com/sharedfiles/filedetails/?id=664665374) {##floating_continent}
 
-`w` Some time after leaving the floating continent, you will permanently lose access to any kind of sea ship and with it all sea enemies.
+`w` Some time after leaving the floating continent, you will permanently lose access to sea ships and therefore all sea enemies as well.
 
-::: {:columns}
+## Enemies {:columns=small}
 
 ### `beast` Mainland
 
@@ -29,7 +29,7 @@ Encompasses [Tokkul], [Village of the Ancients], [Castle Argus], [Gulgan Gulch],
 * [Knocker]
 
 
-### `beast` Inner sea
+### Inner sea
 * [Killer Fish]
 * [Hermit]
 * [Sea Elemental]
@@ -37,7 +37,7 @@ Encompasses [Tokkul], [Village of the Ancients], [Castle Argus], [Gulgan Gulch],
 * [Sahagin]
 
 
-### `beast` Outer edge
+### Outer edge
 
 * [Red Cap]
 * [Barometz]
@@ -49,10 +49,8 @@ Encompasses [Tokkul], [Village of the Ancients], [Castle Argus], [Gulgan Gulch],
 * [Hornet]
 * [Parademon]
 
-### `beast` Outer sea
+### Outer sea
 * [Anet]
 * [Mermaid]
 * [Seahorse]
 * [Sea Serpent]
-
-:::

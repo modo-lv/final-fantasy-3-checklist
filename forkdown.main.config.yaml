@@ -7,20 +7,27 @@ externalLinks:
     - [ "Reflect Mail", "Mirror Mail" ]
     - [ "Diamond Mail", "Diamond Armor" ]
     - [ "Princess Sara", "Sara_Altney" ]
+    - [ "ninja_boss", "Ninja_(Final_Fantasy_III_boss)" ]
+    - [ "MogNet", "Mognet" ]
+    - [ "Ultima Weapon", "Ultima Weapon (weapon)" ]
+    - [ "(revive |recovery |status removal )?[Ww]ellspring", "Healing spring (location)#Final Fantasy III" ]
     # Enemies
-    - pattern: Abaia|Azrael|Berserker|Carbuncle|Dira|Eater|Fury|Killer Bee|Salamander|Lemur|Basilisk|Vulcan|Cockatrice|Duster|Ouroboros|Sea Dragon|Werewolf|Yellow Dragon
+    - pattern: Abaia|Azrael|Basilisk|Berserker|Bugbear|Carbuncle|Cockatrice|Dira|Duster|Eater|Fury|Garm|Gorgon|Greater Demon|Griffon|Killer Bee|King Behemoth|Knocker|Lemur|Lizardman|Ouroboros|Salamander|Sea Dragon|Viking|Vulcan|Werewolf|.* Dragon
       rewrite: $0 (Final Fantasy III)
     # Bosses
-    - pattern: Shinobi
+    - pattern: Amon|General|Guardian|Kunoichi|Shinobi|Scylla
       rewrite: $0 (Final Fantasy III)
     # Locations
-    - pattern: \?\?\?|Falgabard|Gysahl|Sewers|Sunken Cave
-      rewrite: $0 (Final Fantasy III)
-    # Misc.
-    - pattern: Bestiary|MogNet|Nautilus|Takka|Invincible
+    - pattern: \?\?\?|Canaan|Falgabard|Gysahl|Sewers|.* Cave
       rewrite: $0 (Final Fantasy III)
     # Jobs
-    - pattern: Black Belt|Dark Knight|Onion Knight|Knight|Sage
+    - pattern: Black Belt|Dark Knight|Geomancer|Onion Knight|Knight|Sage
+      rewrite: $0 (Final Fantasy III)
+    # Skills
+    - pattern: Sing
+      rewrite: $0 (Final Fantasy III)
+    # Misc.
+    - pattern: "[Bb]estiary|Cid|Invincible|Mognet|Nautilus|Takka"
       rewrite: $0 (Final Fantasy III)
     # Armor
     - pattern: Leather Cap|Bronze Bracers
@@ -31,17 +38,29 @@ externalLinks:
     # Locations
     - pattern: Floating Continent
       rewrite: Final_Fantasy_III_locations#$0
+    # Weapons
+    - pattern: Ultima Weapon \(weapon\)
+      rewrite: $0#Final_Fantasy_III
     # Armor
     - pattern: Mirror Mail|Diamond Armor|Diamond Shield|Behemoth Knife
       rewrite: $0#Final_Fantasy_III
     # Items
     - pattern: Magic Key
       rewrite: $0#Final_Fantasy_III
+    # Skills
+    - pattern: Shadowflare
+      rewrite: $0#Final_Fantasy_III
+    # Locations
+    - pattern: "[Ii]nn"
+      rewrite: $0#Final_Fantasy_III
+    # Items
+    - pattern: Elixir
+      rewrite: $0_(item)#Final_Fantasy_III
     # Magic
     - pattern: Sleep|Blizzaga
-      rewrite: $0 (ability)#Final_Fantasy_III
+      rewrite: $0 (ability)#Final Fantasy III
     # Stats
-    - pattern: HP|Vitality
+    - pattern: HP|MP|Strength|Agility|Vitality|Intellect|Mind
       rewrite: $0 (stat)#Final_Fantasy_III
     # Other
     - [ "jobs?", Final_Fantasy_III_jobs ]

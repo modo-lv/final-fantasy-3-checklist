@@ -56,13 +56,14 @@
     * [Crystal Tower]
     * [World of Darkness]
 * Info
-  * [Gameplay]
+  * Side-quests
+    * [Getting Onion Knight]
+    * [Legendary Smith]
+    * [???](bonus_unlock)
+  * Gameplay
     * [Stats and leveling](gameplay_stats)
     * [Jobs](gameplay_jobs)
-  * [Reference]
-    * [MogNet]
-      * [Getting Onion Knight]
-      * [Legendary Smith]
+  * Reference
     * [Job Vitality]
 * About
   * [This guide](about)

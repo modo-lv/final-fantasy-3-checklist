@@ -1,6 +1,6 @@
 :{:checklist :columns}
 
-## [Amur](@~) {##~}
+## [Amur](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/8142-amur-village-sewers) {##~}
 
 ##### `item, quest` [Legendary Smith]
 1. Check [MogNet] as [Ingus]

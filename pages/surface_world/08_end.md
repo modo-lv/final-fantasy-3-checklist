@@ -2,7 +2,7 @@
 
 ## [Crystal Tower](@~) {##~}
 
-`i` Unlocking the door to [Eureka] on top of the large stairs on level 1 makes [Legendary Smith] appear in [Falgabard], making ultimate weapons available for each job.
+`i` Unlocking the door to [Eureka] in the room on top of the large stairs on level 1 makes [Legendary Smith] appear in [Falgabard], making ultimate weapons available for each job.
 
 `w` The mirror on level 8 is the final point of no return. Once you approach it, you will have to finish the game without returning to the world map.
 
@@ -48,6 +48,7 @@
 - Levels 2-5: 
   * [Kum Kum]
   * [Shinobi]
+    Guaranteed in [Falgabard].
 - Levels 4-7:
   * [Dark General]
   * [Glasya Labolas]
@@ -70,12 +71,16 @@
 :::
 
 ##### `chest` Chests
+`w` All chests are trapped, triggering a fight with [Xande's Clone].
 * NW portal: [Ribbon]
 * NE portal: [Ribbon]
 * SE portal: [Ribbon]
 * SW portal: [Ribbon]
 
 ##### `beast` Enemies
+* `boss beast` [Xande's Clone]
+  
+  `x` Chest trap.
 * NE, NW & SE portals: [Shadow Master]
 - NE, NW & SW portals: 
   * [Kage]
@@ -86,7 +91,7 @@
 * SE & center portals: [Garm]
 * `boss beast` SE portal: [Ahriman]
 * `boss beast` SW portal: [Echidna]
-* Center portal:
+- Center portal:
   * [Twin Dragon]
   * [Hydra]
     Very rare.
