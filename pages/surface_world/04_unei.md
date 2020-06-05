@@ -22,10 +22,13 @@
 * [King Lizard]
 * [King Seahorse]
 - Levels 1-2:
+  
   * [Wyvern]
 - Levels 1 & 3:
+  
   * [Dira]
 - Levels 3-4:
+  
   * [Behemoth]
 - Level 4:
   * [Dragon]
@@ -41,6 +44,8 @@
 `quest` Check [MogNet] as [Refia] after completing the dungeon to continue the [Legendary Smith] side-quest.
 
 `i` Completing the ruins gives you the means to access [Bahamut's Lair] and [Lake Dhor] on the [Floating Continent].
+
+After getting Invincible: 69% chests, bestiary 68%: 1-139, from chests: 148-189 & 155, 196-207 (Odin)
 
 :::{:columns=small}
 ##### `chest` Chests

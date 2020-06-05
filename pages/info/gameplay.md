@@ -7,6 +7,7 @@
 * Game can only be properly saved on the world map. Quicksaves are meant for when you have to exit the game — the command closes the game after saving and erases the quicksave when you continue.
 * Shields protect against magic as well as physical damage.
 * It is possible to do more than 9999 damage, but the display won't show it. The maximum damage you have done in the game can be seen along with other game stats in [Gysahl] or on the [Invincible].
+* Most towns have a [revive](wellspring), commonly in a house with a blue roof.
 
 ## Stats and leveling {##gameplay_stats}
 

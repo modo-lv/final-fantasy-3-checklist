@@ -1,9 +1,10 @@
 :{:checklist :columns}
-  
-## [Dwarven Hollows](@~) {##~}
 
-##### [Getting Onion Knight]
-* Check [MogNet] as [Luneth] and read the fourth letter from [Topapa] to access the quest.
+## [Dwarven Hollows](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7043-dwarven-hollows) {##dwarven_hollows}
+
+Located on an island in the northwest edge of the outer sea.
+
+`i` Does not have a [revive wellspring].
 
 ### After [Molten Cave]
 
@@ -17,30 +18,41 @@
 
 
 
-## [Subterranean Lake](@~) {##~ :columns=small}
+## [Subterranean Lake](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7048-subterranean-lake) {##subterranean_lake}
 
-##### `chest` Chests
+Accessed through [Dwarven Hollows].
+
+Level 1 is split into two sections; the second leads to level 2.
+
+:::{:columns=small}
+
+##### Pickups
 * Level 1: [Gold Needle]
-- Level 3:
+- Level 2:
   * [Zeus' Wrath]
   * [Zeus' Wrath]
   * [Gold Needle]
   * [Gold Needle]
-* Level 4: 2x $3000
-##### `beast` Enemies
-- Levels 1-3:
+* Level 3: 2x $3000
+##### Enemies
+- Levels 1-2:
   * [Bomb]
   * [Manticore]
 * Levels 2-3: [Stalagmite]
-- Level 4:
+- Level 3:
   * [Sea Devil]
   * [Merman]
   * [Ruinous Wave]
+  * `★` [Gutsco]
+
+:::
 
 
+## [Molten Cave](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7040-molten-cave) {##molten_cave}
 
-## [Molten Cave](@~) {##~ :columns=small}
-##### `chest` Chests
+:::{:columns=small}
+
+##### Pickups
 - Level 1:
   * 1 [Antarctic Wind] (safe)
   * 1 [Antarctic Wind] (through lava)
@@ -59,24 +71,30 @@
 - Level 3:
   * 1 [Impact Claws]
   * 1 [Phoenix Down]
-##### `beast` Enemies
+##### Enemies
 * [Balloon]
 * [Crocotta]
 * [Adamantoise]
 * [Red Marshmallow]
 * Levels 2+: [Myrmecoleon]
+* `★` Level 5: [Salamander]
+
+:::
 
 
-## [Castle Hein](@~) {##~}
+## [Castle Hein](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7034-castle-hein) {##castle_hein}
 
 `w` This location becomes permanently unavailable after defeating the boss, along with all the listed enemies and chests.
 
-`i` There's an [HP]/[MP] recovery point in the rightmost room on level 1.
+`i` There's a [recovery wellspring] hidden in a pot in the rightmost room on level 1.
 
-`x` Entered automatically by going to [Tokkul] after finishing the story in [Dwarven Hollows] (including [Molten Cave]).
+`i` Levels 2 and 4 are split into two sections. Level 5 is the branch outside.
+
+`x` You are brought here automatically when you enter [Tokkul] after finishing the [Dwarven Hollows].
 
 ::: {:columns=small}
-##### `chest` Chests
+##### Pickups
+* `💬` Level 1: [Mini]
 - Level 2:
   * [Holy Arrow]
   * 2x [Phoenix Down]
@@ -86,20 +104,21 @@
   * $3000, [Antarctic Wind]
   * $3000, [Zeus' Wrath]
 * Level 4: [Royal Sword]
-* Level 5 (outside): [Phoenix Down]
+* Level 5: [Phoenix Down]
 - Level 6:
   * [Elixir]
   * [Rune Bow]
-##### `beast` Enemies
+##### Enemies
 * Levels 2-3 & 5-6: [Lemur]
 * Levels 2-4: [Demon]
 * Levels 2-6: [Pharaoh]
 * Level 4: [Dullahan]
 * Levels 5-6: [Lamia]
+* `★` Level 7: [Hein]
 :::
 
 
-## `chest` [Castle Argus](@~) {##~}
+## [Castle Argus](@~) {##~}
 
 Located on the east edge of the western landmass.
 

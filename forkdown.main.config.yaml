@@ -12,7 +12,7 @@ externalLinks:
     - [ "Ultima Weapon", "Ultima Weapon (weapon)" ]
     - [ "(revive |recovery |status removal )?[Ww]ellspring", "Healing spring (location)#Final Fantasy III" ]
     # Enemies
-    - pattern: Abaia|Azrael|Basilisk|Berserker|Bugbear|Carbuncle|Cockatrice|Dira|Duster|Eater|Fury|Garm|Gorgon|Greater Demon|Griffon|Killer Bee|King Behemoth|Knocker|Lemur|Lizardman|Ouroboros|Salamander|Sea Dragon|Viking|Vulcan|Werewolf|.* Dragon
+    - pattern: Abaia|Azrael|Basilisk|Berserker|Bugbear|Carbuncle|Cockatrice|Dira|Duster|Eater|Firefly|Fury|Garm|Gorgon|Greater Demon|Griffon|Helldiver|Killer Bee|King Behemoth|Knocker|Lemur|Lizardman|Ouroboros|Rukh|Salamander|Sea Dragon|Vulcan|Werewolf|.* Dragon
       rewrite: $0 (Final Fantasy III)
     # Bosses
     - pattern: Amon|General|Guardian|Kunoichi|Shinobi|Scylla
@@ -21,7 +21,7 @@ externalLinks:
     - pattern: \?\?\?|Canaan|Falgabard|Gysahl|Sewers|.* Cave
       rewrite: $0 (Final Fantasy III)
     # Jobs
-    - pattern: Black Belt|Dark Knight|Geomancer|Onion Knight|Knight|Sage
+    - pattern: ^(?:Black Belt|Dark Knight|Geomancer|Onion Knight|Knight|Sage|Viking)$
       rewrite: $0 (Final Fantasy III)
     # Skills
     - pattern: Sing
@@ -45,7 +45,7 @@ externalLinks:
     - pattern: Mirror Mail|Diamond Armor|Diamond Shield|Behemoth Knife
       rewrite: $0#Final_Fantasy_III
     # Items
-    - pattern: Magic Key
+    - pattern: Magic Key|Lamia Scale
       rewrite: $0#Final_Fantasy_III
     # Skills
     - pattern: Shadowflare
@@ -57,7 +57,7 @@ externalLinks:
     - pattern: Elixir
       rewrite: $0_(item)#Final_Fantasy_III
     # Magic
-    - pattern: Sleep|Blizzaga
+    - pattern: ^(Blizzaga|Blizzara|Blizzard|Fira|Firaga|Fire|Mini|Sleep|Thundaga|Thundara|Thunder|Toad)
       rewrite: $0 (ability)#Final Fantasy III
     # Stats
     - pattern: HP|MP|Strength|Agility|Vitality|Intellect|Mind

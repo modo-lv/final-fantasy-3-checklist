@@ -1,20 +1,22 @@
 :{:checklist :columns}
 
 
-## `item` [Tozus](@~) {##~ :columns=small}
+## [Tozus](@~) {##~ :columns=small}
 
-#### Village
+#### Doctor Shelco's house
 * [Mythril Bracers], [Fire Staff], [Fira]
 * [Cura]
 
 #### Passage & tunnel
 * 2x [Phoenix Down]
-* `beast` [Leprechaun]
-* `beast` [Darkface]
+* `⚔️` [Leprechaun]
+* `⚔️` [Darkface]
 
 
 
-## `chest` [Vikings' Cove](@~) {##~}
+## [Vikings' Cove](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7046-vikings-cove) {##vikings_cove}
+
+`i` There's a [revive wellspring] in the room with the [Viking Axe] and $3000 chests.
 
 * [Spark Dagger]
 * [Viking Axe], $3000
@@ -22,48 +24,74 @@
 
 
 
-## [Nepto Temple](@~) {##~ :columns=small}
-##### `chest` Chests
+## [Nepto Temple](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7053-nepto-temple) {##nepto_temple :columns=small}
+##### Pickups
 * [Shell Armor], [Shell Helm]
 * [Serpent Sword]
-##### `beast` Enemies
+##### Enemies
 * Level 1: [Lilliputian]
 * Levels 1-3: [Petit]
 * Level 2: [Poison Bat]
 * Levels 2-3: [Blood Worm]
-* Level 3: [Wererat]
+- Level 3:
+  * [Wererat]
+  * `★` [Giant Rat]
 
 
 ## [Tokkul](@~) {##~}
 
+`i` Does not contain any [shop]s, [wellspring]s or an [inn].
+
 `w` When you return here after completing [Dwarven Hollows] (including [Molten Cave]), you will be moved to [Castle Hein] and will have to complete it, boss included, in order to return. Once completed, the castle will become permanently unavailable.
 
-* 1 [Serpent Sword], [Kenpo Gi]
-* `item` [Sonic Knuckles]
+:::{:columns=small}
+#### Village
+* `✨` [Ice Staff]
+
+  `x` East edge of the village, slightly north of the rightmost house.
+* `✨` [Bacchu's Cider]
+
+  `x` Bottom left corner of the village, in the boxes next to the orange house.
+* `✨` [Great Bow]
+
+  `x` Top left corner of the village, at the front left corner of the orange house.
+* `✨` [Lamia Scale]
+
+  `x` Top left corner of the village, just on the north side of the organge house.
+#### Mayor's house
+  * 1 [Serpent Sword], [Kenpo Gi]
+  * `✨` [Sonic Knuckles]
+:::
 
 
 
-## `item` [Village of the Ancients](@~) {##~}
+## [Village of the Ancients](@~) {##~}
+
 Optional town at the southwest edge of the continent.
 
-* [Gnomish Bread]
-  Quest reward.
+* `💬` [Gnomish Bread]
   
-  `x` Talk to the read-headed boy in the crevice west of the inn, then go out to the Chocobo forest next to the village, and ride a chocobo along the edge of the continent all the way around.
-* [Serpent Sword]
+  `x` Talk to the read-headed boy in the crevice west of the inn, then go out to the Chocobo forest next to the village. Ride a chocobo along the edge of the continent all the way around and back to the village, and talk to the boy again.
+* `✨` [Serpent Sword]
 
   `x` North of the well, about halfway to the stairs.
- 
- 
-  
-## `chest` [Gulgan Gulch](@~) {##~}
 
+ 
+
+## [Gulgan Gulch](@~) {##~}
+
+* `💬` [Toad]
 * [Fire Staff], [Ice Staff], [Mage Robe]
 
 
 
-## [Tower of Owen](@~) {##~ :columns=small}
-##### `chest` Chests
+## [Tower of Owen](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7033-tower-of-owen) {##tower_of_owen}
+
+`i` If you haven't missed any enemies, by the time you finish the tower, you should have enough of the [bestiary] unlocked to [get Onion Knight](getting_onion_knight).
+
+:::{:columns=small}
+
+##### Pickups
 * Level 3: [Echo Herbs]
 * Level 5: [Spark Dagger]
 * Level 6: [Echo Herbs]
@@ -73,29 +101,30 @@ Optional town at the southwest edge of the continent.
   * 1 [Salamand Sword]
   * 1 [Flame Mail]
   * 1 [Zeu's Wrath]
-##### `beast` Enemies
+##### Enemies
 * [Far Darrig]
 * [Petit Mage]
 * Level 1: [Fury]
-  Ground floor with water & frogs.
+  Rare.
 * Levels 1-4: [Pugman]
 - Levels 5-10:
   * [Blood Bat]
   * [Aughisky]
-  
+* `★` Level 11: [Medusa]
+
+:::
+
 
 ## [Gysahl](@~) {##~}
 
-Located on the eastern outer edge.
+An optional village located on the eastern outer edge.
 
 `i` You can buy [Magic Key]s here for locked doors. The game has a total of 13 locked doors: 2 in [Castle Argus], 4 in [Goldor Manor] and 7 in [Temple of Time]. You can also get one free key in [Dwarven Hollows].
 
-`i` A hidden room in the tavern has an NPC that lets you check your bestiary and a few other game statistics, including open chest percentage.
+`i` A hidden room in the tavern has an NPC that lets you check your [bestiary] and a few other game statistics, including open chest percentage.
 
-Before [Castle Hein]: 35% chests, bestiary 1-65, 71-74
-After [Castle Hein]: 39% chests, bestiary 32%, 1-74 + bosses
-After getting Invincible: 69% chests, bestiary 68%: 1-139, from chests: 148-189 & 155, 196-207 (Odin)
-
-* 1 [Shuriken]
+* [Shuriken]
 
   `x` Behind the counter in the [Magic Key] shop.
+* Check your progress before leaving the continent:
+  You should have 39% of the chests and [bestiary] entries #1-#74 & #196-#202 (32%).

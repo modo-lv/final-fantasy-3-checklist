@@ -6,11 +6,12 @@ This is a spoiler-free (as much as possible) checklist for [Final Fantasy III (S
 
 A couple of notes:
 
-* Label `w`{:label} (short for "warning") is for important information about something that can have serious (usually permanent) consequences for your playthrough. Most often they're cases where you lose access to a location, item, enemy or something else, either temporarily or permanently.
+* All checkboxes are for treasure chests unless otherwise indicated.
+* `✨` means an item that can be picked up by zooming in the camera and examining the shining spot, and `💬`{:label} means getting an item requires talking to someone. These items do not count towards the chest percentage and therefore don't affect the achievement.
+* `⚔️` means an enemy (not used in explicitly titled enemy lists) that you need to defeat to add to the [bestiary], and `★`{:label} marks a boss.
+* Label `w`{:label} (short for "warning") is for important information about something that can have serious (usually permanent) consequences for your playthrough. Most often they're cases where you lose access to a location, item, enemy or something else, often permanently.
 * Label `i`{:label} (short for "information") is for potentially helpful but not vital information, such as a shop selling a special item or when a quest becomes available at a certain location.
 * Label `x`{:label} (short for "explanation" or "X marks the spot") is detailed information on where to find and how to access the item/character/location/etc.
-* Label `beast`{:label} (short for "bestiary") is for listing enemies that you need to defeat in order to complete the bestiary. Each enemy appears only once in the guide; if the enemy can be found in several locations, the guide will list either the earliest or the most reliable location, whichever becomes available first.
-* Items with `chest`{:label} label are those located in treasure chests, while simply `item`s are those that your can acquire another way (usually by zooming in the camera and examining the shining spot).
 
 ## Sources {##sources}
 

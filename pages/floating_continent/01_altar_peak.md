@@ -34,7 +34,7 @@ You start the game on level 3 and can't go directly up; the upper levels can onl
 
 ## [Ur](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/8143-ur-village) {##ur}
 
-`i` The house with the blue roof contains [revive and recovery wellsprings](wellspring) and the [inn] here is for free.
+`i` The house with the blue roof contains both [revive and recovery wellsprings](wellspring) and the [inn] here is for free.
 
 * `💬` [Phoenix Down] (trade for a [Potion])
 
@@ -56,7 +56,7 @@ You start the game on level 3 and can't go directly up; the upper levels can onl
 
 ## [Kazus](@~) {##kazus}
 
-`i` The house with the blue roof contains a [revive wellspring] and the [inn] here is for free.
+`i` The [inn] here is for free.
 
 - North of the pond:
 

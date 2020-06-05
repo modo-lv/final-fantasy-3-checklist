@@ -16,22 +16,21 @@
     * [Village of the Ancients] (optional)
     * [Gulgan Gulch]
     * [Tower of Owen]
-  * [Gysahl] (optional)
   * Caves and castles
     * [Dwarven Hollows]
     * [Subterranean Lake]
     * [Molten Cave]
     * [Castle Hein]
     * [Castle Argus]
-  * Invincible (optional)
+  * [Gysahl] (optional)
+  * With [Invincible] (optional)
     * [Lake Dhor]
     * [Bahamut's Lair]
 * Surface World
   * [World Map](surface_world)
-  * Arrival
+  * Arrival & unchaining
     * [Wrecked Ship]
     * [Cave of Tides]
-  * Amur to Replito
     * [Amur]
     * [Goldor Manor]
     * [Duster] (optional)
