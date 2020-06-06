@@ -33,9 +33,9 @@
     * [Cave of Tides]
     * [Amur]
     * [Goldor Manor]
+  * Saronia & Doga
     * [Duster] (optional)
     * [Replito] (optional)
-  * Saronia & Doga
     * [Saronia]
     * [Cave of the Circle]
   * Underwater (optional)
@@ -55,15 +55,16 @@
     * [Crystal Tower]
     * [World of Darkness]
 * Info
+  * Gameplay
+    * [Miscellaneous]
+    * [Stats and leveling](gameplay_stats)
+    * [Jobs](gameplay_jobs)
   * Side-quests
     * [Getting Onion Knight]
     * [Legendary Smith]
     * [???](bonus_unlock)
-  * Gameplay
-    * [Stats and leveling](gameplay_stats)
-    * [Jobs](gameplay_jobs)
   * Reference
-    * [Job Vitality]
+    * [Job stats]
 * About
   * [This guide](about)
   * [Sources]

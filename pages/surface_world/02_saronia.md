@@ -1,21 +1,70 @@
 :{:checklist :columns}
+
+## [Duster](@~) (optional) {##duster}
+
+Located on the small island in the middle of the sea.
+
+* `✨` [Earthen Drums]
+
+  `x` Next to the bard behind some trees in the northeast corner of the village.
+* `✨` [Earthen Drums]
+
+  `x` Next to the bard behind some trees at the north edge of the village.
+
+
+## [Replito](@~) (optional) {##replito}
+
+Located at the northwest edge of the northwestern continent.
+
+:::{:columns=small}
+
+* [Elixir]
+
+  `x` You can enter the house with the blue roof from behind; inside there's a secret passage in the side wall.
+* `✨` [Elixir]
+
+  `x` Among some trees in the top left corner of the village.
+* `✨` [Turtle Shell]
+
+  `x` Next to a tree near the left exit from the village.
+* `✨` [Turtle Shell]
+
+  `x` Tree just left of the Inn.
+* `✨` [Phoenix Down]
+
+  `x` Tree next to the Gulgan hidden among the trees on the right side of the village.
+:::
+
+
+
 ## [Saronia](@~) {##~}
 
-`w` Entering the castle with [Alus] will lead to a boss fight.
+A large multi-town area located on the northwestern landmass.
+
+`w` Flying over Castle [Saronia] after unchaining your ship will *permanently remove all access to sea surface enemies, including on the [Floating Continent]*. You will also be trapped in Saronia until you progress with the story, including defeating a boss.
+
+`w` Entering the castle with [Alus] will lead directly to a boss fight.
 
 ::: {:columns=small}
+### [Northeast](Saronia#Northeastern_Saronia) {##~}
+
+* `✨` [Elixir]
+
+  `x` Next to a tree in the top right part of the town.
+
+
 ### [Southwest](Saronia#Southwestern_Saronia) {##~}
 
 `w` Entering the tavern (large building in the top right corner of the area) will lead to a fight with 3 [Gold Knight]s.
 
 * 11x [Gysahl Greens]
 
-#### With [Alus] in your party
-* `item` [Dragon Mail]
+###### With [Alus] in your party
+* `💬` [Dragon Mail]
 
   `x` Talk to the old man in an orange robe on the small platform in the middle of the town.
 
-* `item` [Wind Spear]
+* `💬` [Wind Spear]
 
   `x` Talk to the old man in an orange robe at the bottom left corner of the area.
 
@@ -32,11 +81,10 @@
 
 * 2x [Phoenix Down]
 
-### [Northwest](Saronia#Northwestern_Saronia) {##~}
-
-`i` [Legendary Smith] becomes available here after completing the story in the castle.
-
 :::
+
+
+
 
 ## [Cave of the Circle](@~) {##~}
 

@@ -8,7 +8,7 @@ Located on an island in the northwest edge of the outer sea.
 
 ### After [Molten Cave]
 
-* `chest` Treasure room: [Gysahl Greens], [Heroic Shield], 2x [Phoenix Down], [Book of Light], [Knight Armor], [Scholar Hat], [Book of Ice], [Book of Fire], [Scholar Robe], [Gold Needle], [Gauntlets], [Killer Bow], [Ottershroom], [Elixir].
+* Treasure room: [Gysahl Greens], [Heroic Shield], 2x [Phoenix Down], [Book of Light], [Knight Armor], [Scholar Hat], [Book of Ice], [Book of Fire], [Scholar Robe], [Gold Needle], [Gauntlets], [Killer Bow], [Ottershroom], [Elixir].
 
   `x` Talk to the dwarf in the bottom right corner of the main hall.
   
@@ -22,7 +22,7 @@ Located on an island in the northwest edge of the outer sea.
 
 Accessed through [Dwarven Hollows].
 
-Level 1 is split into two sections; the second leads to level 2.
+`i` Level 1 is split into two sections; the second leads to level 2.
 
 :::{:columns=small}
 
@@ -43,7 +43,7 @@ Level 1 is split into two sections; the second leads to level 2.
   * [Sea Devil]
   * [Merman]
   * [Ruinous Wave]
-  * `★` [Gutsco]
+  * ★ [Gutsco]
 
 :::
 
@@ -54,30 +54,30 @@ Level 1 is split into two sections; the second leads to level 2.
 
 ##### Pickups
 - Level 1:
-  * 1 [Antarctic Wind] (safe)
-  * 1 [Antarctic Wind] (through lava)
+  * [Antarctic Wind] (safe)
+  * [Antarctic Wind] (through lava)
   
     `x` Go down and right when the lava path forks.
 - Level 2:
-  * 1 [Freezing Blade]
+  * [Freezing Blade]
 
     `x` Go down at the first lava fork.
-  * 1 [Phoenix Down]
+  * [Phoenix Down]
     
     `x` Go up at the second lava fork.
-  * 1 [Hi-Potion]
+  * [Hi-Potion]
 
     `x` Go down at the second lava fork.
 - Level 3:
-  * 1 [Impact Claws]
-  * 1 [Phoenix Down]
+  * [Impact Claws]
+  * [Phoenix Down]
 ##### Enemies
 * [Balloon]
 * [Crocotta]
 * [Adamantoise]
 * [Red Marshmallow]
 * Levels 2+: [Myrmecoleon]
-* `★` Level 5: [Salamander]
+* ★ Level 5: [Salamander]
 
 :::
 
@@ -94,7 +94,7 @@ Level 1 is split into two sections; the second leads to level 2.
 
 ::: {:columns=small}
 ##### Pickups
-* `💬` Level 1: [Mini]
+* 💬 Level 1: [Mini]
 - Level 2:
   * [Holy Arrow]
   * 2x [Phoenix Down]
@@ -114,7 +114,7 @@ Level 1 is split into two sections; the second leads to level 2.
 * Levels 2-6: [Pharaoh]
 * Level 4: [Dullahan]
 * Levels 5-6: [Lamia]
-* `★` Level 7: [Hein]
+* Level 7: ★ [Hein]
 :::
 
 

@@ -1,14 +1,13 @@
 :{:checklist :columns}
 
+## [Lake Dhor](@~) (optional) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7037-lake-dohr) {##lake_dhor}
 
-
-## [Lake Dhor](@~) {##~}
 Optional dungeon in the mountains west of [Castle Argus], accessible with [Invincible].
 
-`w` This area with all the enemies and chests becomes permanently inaccessible after defeating the boss.
+`w` This area, including all the enemies and chests, becomes permanently inaccessible after defeating the boss.
 
 :::{:columns=small}
-##### `chest` Chests
+##### Pickups
 - Level 1:
   * [Phoenix Down], [Arctic Wind], [Heavenly Wrath], [Earthen Drums]
   * 3x [Hi-Potion], [Elixir]
@@ -19,23 +18,23 @@ Optional dungeon in the mountains west of [Castle Argus], accessible with [Invin
   * [Platinum Hammer], [Black Hole], [Reflect Mail]
   * [Black Musk]
   * [Lilith's Kiss], [Raven's Yawn]
-##### `beast` Enemies
+##### Enemies
 * [Ouroboros]
   Guaranteed in [Saronia Catacombs].
 * [Plancti]
 * [Sea Lion]
 * [Remora]
-* `boss beast` Level 4: [Leviathan]
+* Level 4: ★ [Leviathan]
 :::
 
 
 
 
-## [Bahamut's Lair](@~) {##~}
+## [Bahamut's Lair](@~) (optional) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7050-bahamuts-lair) {##bahamuts_lair}
 Optional dungeon in the southeast corner of the [Floating Continent], accessible with [Invincible].
 
 :::{:columns=small}
-##### `chest` Chests
+##### Pickups
 - Level 1:
   * [Heavenly Wrath], [Earthen Drums]
   * [Phoenix Down], [Arctic Wind]
@@ -47,7 +46,7 @@ Optional dungeon in the southeast corner of the [Floating Continent], accessible
 - Level 3:
   * [Eurytos Bow]
   * [Phoenix Down], [Elixir], [Kotetsu]
-##### `beast` Enemies
+##### Enemies
 * [Drake]
 * Level 1: [Grenade]
 - Levels 2-3:
@@ -55,5 +54,5 @@ Optional dungeon in the southeast corner of the [Floating Continent], accessible
   * [Sabertooth Liger]
 - Level 3:
   * [Queen Lamia]
-  * `boss beast` [Bahamut]
+  * ★ [Bahamut]
 :::

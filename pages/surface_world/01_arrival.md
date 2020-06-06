@@ -68,39 +68,3 @@ Accessible after the gate to the sewers has been opened.
 * Library & north wing:
   * [Gold Knight]
   * [Nightmare]
-
-
-## [Duster](@~) (optional) {##duster}
-
-On the small island in the middle of the sea.
-
-* `✨` [Earthen Drums]
-
-  `x` Next to the bard behind some trees in the northeast corner of the village.
-* `✨` [Earthen Drums]
-
-  `x` Next to the bard behind some trees at the north edge of the village.
-
-
-## [Replito](@~) (optional) {##replito}
-
-At the northwest edge of the northwestern continent.
-
-:::{:columns=small}
-
-* [Elixir]
-
-  `x` You can enter the house with the blue roof from behind; inside there's a secret passage in the side wall.
-* `✨` [Elixir]
-
-  `x` Among some trees in the top left corner of the village.
-* `✨` [Turtle Shell]
-
-  `x` Next to a tree near the left exit from the village.
-* `✨` [Turtle Shell]
-
-  `x` Tree just left of the Inn.
-* `✨` [Phoenix Down]
-
-  `x` Tree next to the Gulgan hidden among the trees on the right side of the village.
-:::

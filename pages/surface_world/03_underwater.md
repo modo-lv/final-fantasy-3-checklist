@@ -2,19 +2,19 @@
 
 # Underwater
 
-Optional areas available after completing [Cave of the Circle].
+Optional areas accessible with [Nautilus] after completing [Cave of the Circle].
 
-:::: {:columns}
+::::{:columns}
 
-## [Sunken Cave](@~) {##~}
+## [Sunken Cave](@~) (optional) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7036-sunken-cave) {##sunken_cave}
 
-Does not have a boss.
+Located under the tiny, triangle-shaped island at the very southeast corner of the world map. 
 
-`x` Dive underwater next to the triangle-shaped island at the far southeast corner of the map.
+`i` Does not have a boss.
 
 :::{:columns=small}
 
-##### `chest` Chests
+##### Pickups
 - Level 2:
   * [Tiger Claws]
   * [Chakram]
@@ -25,56 +25,55 @@ Does not have a boss.
   * [Air Knife], [Diamond Mail], [Loki Harp], [Diamond Bracers]
   * [Elixir], [Diamond Gloves]
   * [Phoenix Down]
-  * [Aegis Shield], [Trident], [Reflect Mail], [Triton Hammer]
-
-    `w` Trapped, will trigger combat with [Zombie Dragon], [Peryton], [Death Claw] and [Eater], respectively.
+  - Hidden room:
+    * [Aegis Shield]
+      ⚔️ [Zombie Dragon]
+    * [Trident]
+      ⚔️ [Peryton]
+    * [Reflect Mail]
+      ⚔️ [Death Claw]
+    * [Triton Hammer]
+      ⚔️ [Eater]
   
-##### `beast` Enemies
+##### Enemies
 * [Killer Hermit]
 * [Ologhai]
 * [Kelpie]
-- Levels 1-2:
-  * [Sea Witch]
-- Levels 1 & 3:
-  * [Dozmare]
-- Levels 2-3:
-  * [Aegir]
-- Level 3 (chest traps):
-  * [Zombie Dragon]
-  * [Peryton]
-  * [Death Claw]
-  * [Eater]
+* Levels 1-2: [Sea Witch]
+* Levels 1 & 3: [Dozmare]
+* Levels 2-3: [Aegir]
 
 :::
-  
-  
-## [Saronia Catacombs](@~) {##~}
 
-`w` Stealing from the boss here is the only reliable way of getting the weapon [Gungnir] in the game, and requires a [Thief] of job level 71 or higher.
 
-`x` Dive underwater where the sea meets [Saronia]'s wall, and enter the underground cave.
+## [Saronia Catacombs](@~) (optional) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7047-saronia-catacombs) {##saronia_catacombs}
+
+Located under [Saronia], accessible from the southeast corner.
+
+`w` The boss here is the *only source the weapon [Gungnir] in the game*, and the only way to get it from him reliably is to steal it with a [Thief] of job level 71 or higher.
 
 :::{:columns=small}
-##### `chest` Chests
+##### Pickups
 - Level 3:
   * [Rune Bell], [Aegis Shield]
   * [Golem Staff]
   * [Reflect Mail]
   * [Heavy Lance]
 - Level 4:
-  * 4x [Elixir], 4x [Phoenix Down]
+  * 4x [Elixir]
+  
+    ⚔️ [Ouroboros]
+  * 4x [Phoenix Down]
 
-  `w` The chests are trapped, triggering a fight upon opening. [Elixir]s are guarded by [Ouroboros], [Phoenix Down]s — by [Cenchos].
+    ⚔️ [Cenchos]
 
-##### `beast` Enemies
+##### Enemies
 * [Kyklops]
 * [Boss Troll]
 * [Fachan]
 * [Cenchos]
-- Levels 2 & 4:
-  * [Balor]
-- Level 4 (chest traps):
-  * [Ouroboros]
+* Levels 2 & 4: [Balor]
+* Level 5: [★ Odin](Odin)
 :::
 
 ::::

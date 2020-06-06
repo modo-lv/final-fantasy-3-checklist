@@ -1,12 +1,13 @@
 :{:checklist :columns}
 
-## [Ancients' Maze](@~) {##~}
+## [Ancients' Maze](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7038-ancients-maze) {##ancients_maze}
+
 Located in the nothern mountains of the northeastern landmass.
 
 `i` The first door on level 1 leads directly to the [Earth Crystal], while the rest of the levels eventually exit through the world map to the [Crystal Tower].
 
 :::{:columns=small}
-##### `chest` Chests
+##### Pickups
 * Level 1: [Elixir]
 - Level 2:
   * [Lilith's Kiss], [Crystal Shield]
@@ -23,33 +24,35 @@ Located in the nothern mountains of the northeastern landmass.
 - Level 5:
   * [Holy Lance]
   * [Hellish Claws]
-##### `beast` Enemies
+##### Enemies
 * [Iron Claws]
 * [Greater Demon]
 * [Unei's Clone]
 * [Thanatos]
-* `boss beast` Level 1 (room): [Titan]
+* Level 1 (room): ★ [Titan]
 * Levels 2-3 & 5: [Bone Dragon]
 * Level 5: [King Behemoth]
   Very rare, extra powerful.
 :::
 
 
-## The Forbidden Land, [Eureka](@~) {##eureka}
-Optional dungeon accessible through a door in the [Crystal Tower], after completing [Doga's Grotto].
+## [Eureka](@~) (optional) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7032-eureka) {##eureka}
 
-`i` Level 7 contains a two-way portal to a separate rest area with no enemies, revive and recovery springs, a level 8 magic and ultimate summon shops, and an armor shop.
+Optional dungeon accessible through a door in the [Crystal Tower] after completing [Doga's Grotto].
 
-`i` [Geomancer]s are quite powerful here, frequently casting [Shadowflare] that deals 9999 damage at job level 50.
+`i` [Geomancer]s are quite powerful here, frequently casting [Shadowflare] that deals 9999+ damage at job level 50.
+
+`i` Level 7 contains a two-way portal to a rest area with no enemies, revive and recovery [wellsprings], a level 8 magic and ultimate summon [shop]s, and an armor [shop].
+
 
 :::{:columns=small}
-##### `chest` Chests
+##### Pickups
 - Level 1:
   * [Chocobo's Wrath], [Fuma Garb]
   * [White Musk], [Elixir]
 - Level 2:
   * [Ribbon]
-    Trap: [Ninja](ninja_boss).
+    ⚔️ [Ninja](ninja_boss)
   * Left room: [White Musk]
   * Right room: [White Musk], [Phoenix Down], [Chocobo's Wrath]
 - Level 3:
@@ -59,37 +62,41 @@ Optional dungeon accessible through a door in the [Crystal Tower], after complet
   * [Elixir]
   * [Shuriken]
   * [Phoenix Down]
+* Level 4: 💬 [Moonring Blade]
+  ⚔️ ★ [Amon]
 - Level 5:
   * [Omnirod]
+  * 💬 [Masamune]
+    ⚔️ ★ [Kunoichi]
   * [Phoenix Down]
-* Level 7 (rest area): 2x [Shuriken], 2x [Elixir]
+* Level 6: 💬 [Excalibur]
+  ⚔️ ★ [General]
+- Level 7:
+  * Rest area: 2x [Shuriken], 2x [Elixir]
+  * 💬 [The Elder Staff]
+    ⚔️ ★ [Scylla]
+  * 💬 [Ragnarok]
+    ⚔️ ★ [Guardian]
 
-##### `beast` Enemies
+##### Enemies
 * Levels 1-5: [Abaia]
 - Levels 1-4 & 6-7:
   * [Sleipnir]
   * [Haokah]
-* `boss beast` Level 2 (chest trap): [Ninja](ninja_boss)
-* `boss beast` Level 4: [Amon]
 * Levels 4-7: [Acheron]
-* `boss beast` Level 5: [Kunoichi]
 * Levels 5-7: [Oceanus]
-* `boss beast` Level 6: [General]
-- `boss beast` Level 7:
-  * [Scylla]
-  * [Guardian]
-
 :::
+
 
 
 ## [???](@~) {##bonus}
 
-See [the side-quest section](bonus_unlock) on how to unlock and find this dungeon.
+Once unlocked, can be found underwater directly west of the very tip of the Dalg continent (where [Doga's Manor] is). See [the side-quest section](bonus_unlock) on how to unlock this dungeon.
 
-`i` This is an exceedingly difficult area with the strongest enemies in the game, meant for grinding levels and [Onion Knight] equipment.
+`i` This is an exceedingly difficult area with the strongest enemies in the game, meant for grinding levels and [Onion Knight] equipment. You will need to level up a lot to stand a chance against the boss (fighting him at level 75 is a considered a low level challenge), and once you're strong enough to defeat him, the rest of the game (including the final boss) will pose very little challenge, if any.
 
-##### `beast` Enemies
+##### Enemies
 * [Yellow Dragon]
 * [Green Dragon]
 * [Red Dragon]
-* `beast boss` [Iron Giant]
+* ★ [Iron Giant]

@@ -9,19 +9,19 @@ externalLinks:
     - [ "Princess Sara", "Sara_Altney" ]
     - [ "ninja_boss", "Ninja_(Final_Fantasy_III_boss)" ]
     - [ "MogNet", "Mognet" ]
-    - [ "Ultima Weapon", "Ultima Weapon (weapon)" ]
     - [ "(revive |recovery |status removal )?[Ww]ellspring", "Healing spring (location)#Final Fantasy III" ]
     # Enemies
-    - pattern: Abaia|Azrael|Basilisk|Berserker|Bugbear|Carbuncle|Cockatrice|Dira|Duster|Eater|Firefly|Fury|Garm|Gorgon|Greater Demon|Griffon|Helldiver|Killer Bee|King Behemoth|Knocker|Lemur|Lizardman|Ouroboros|Rukh|Salamander|Sea Dragon|Vulcan|Werewolf|.* Dragon
+    - pattern: Abaia|Azrael|Basilisk|Berserker|Bugbear|Carbuncle|Cockatrice|Dira|Duster|Eater|Firefly|Fury|Garm|Gomory|Gorgon|Greater Demon|Griffon|Helldiver|Killer Bee|King Behemoth|Knocker|Lemur|Lizardman|Ouroboros|Rukh|Salamander|Sea Dragon|Vulcan|Werewolf|Xande's Clone|.* Dragon
       rewrite: $0 (Final Fantasy III)
     # Bosses
-    - pattern: Amon|General|Guardian|Kunoichi|Shinobi|Scylla
+    - pattern: Amon|General|Guardian|Iron Giant|Kunoichi|Shinobi|Scylla
       rewrite: $0 (Final Fantasy III)
+    - [ "[Oo]din", "$0 (Final Fantasy III boss)" ]
     # Locations
     - pattern: \?\?\?|Canaan|Falgabard|Gysahl|Sewers|.* Cave
       rewrite: $0 (Final Fantasy III)
     # Jobs
-    - pattern: ^(?:Black Belt|Dark Knight|Geomancer|Onion Knight|Knight|Sage|Viking)$
+    - pattern: ^(?:Bard|Black Belt|Black Mage|Devout|Dark Knight|Dragoon|Evoker|Freelancer|Geomancer|Magus|Monk|Ninja|Onion Knight|Knight|Ranger|Red Mage|Sage|Scholar|Summoner|Thief|Viking|Warrior|White Mage)$
       rewrite: $0 (Final Fantasy III)
     # Skills
     - pattern: Sing
@@ -38,17 +38,14 @@ externalLinks:
     # Locations
     - pattern: Floating Continent
       rewrite: Final_Fantasy_III_locations#$0
-    # Weapons
-    - pattern: Ultima Weapon \(weapon\)
-      rewrite: $0#Final_Fantasy_III
     # Armor
     - pattern: Mirror Mail|Diamond Armor|Diamond Shield|Behemoth Knife
       rewrite: $0#Final_Fantasy_III
     # Items
     - pattern: Magic Key|Lamia Scale
       rewrite: $0#Final_Fantasy_III
-    # Skills
-    - pattern: Shadowflare
+    # Stats & Skills
+    - pattern: Shadowflare|Strength
       rewrite: $0#Final_Fantasy_III
     # Locations
     - pattern: "[Ii]nn"
@@ -56,12 +53,17 @@ externalLinks:
     # Items
     - pattern: Elixir
       rewrite: $0_(item)#Final_Fantasy_III
+    # Weapons
+    - pattern: Ultima Weapon|Gungnir
+      rewrite: $0 (weapon)#Final_Fantasy_III
     # Magic
     - pattern: ^(Blizzaga|Blizzara|Blizzard|Fira|Firaga|Fire|Mini|Sleep|Thundaga|Thundara|Thunder|Toad)
       rewrite: $0 (ability)#Final Fantasy III
     # Stats
-    - pattern: HP|MP|Strength|Agility|Vitality|Intellect|Mind
+    - [ "Agility", "Speed" ]
+    - [ "Intellect", "Intelligence" ]
+    - pattern: HP|MP|Speed|Vitality|Intelligence|Mind
       rewrite: $0 (stat)#Final_Fantasy_III
     # Other
-    - [ "jobs?", Final_Fantasy_III_jobs ]
+    - [ "^jobs?$", Final_Fantasy_III_jobs ]
     - [ " ", "_" ]

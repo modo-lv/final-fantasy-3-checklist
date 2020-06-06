@@ -1,62 +1,46 @@
 :{:checklist :columns}
 
-## [Temple of Time](@~) {##~}
+## [Temple of Time](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7045-temple-of-time) {##temple_of_time}
 
-`i` Contains 7 locked doors; does not have a boss.
+`i` The temple contains 7 locked doors and no boss.
 
 :::{:columns=small}
-##### `chest` Chests
+##### Pickups
 - Level 1:
   * [Diamond Bracers]
   * [Diamond Helm]
-- Level 2:
-  * [Defender]
+* Level 2: [Defender]
 - Level 3:
   * [Diamond Mail]
   * [Diamond Gloves], [Behemoth Knife]
 - Level 4:
   * [Diamond Shield]
   * [Blood Lance], [Lamia Harp], [Protect Ring]
-##### `beast` Enemies
+##### Enemies
 * [Chimera Mage]
 * [King Lizard]
 * [King Seahorse]
-- Levels 1-2:
-  
-  * [Wyvern]
-- Levels 1 & 3:
-  
-  * [Dira]
-- Levels 3-4:
-  
-  * [Behemoth]
-- Level 4:
-  * [Dragon]
-  - Rooms:
-    * [Pterodactyl]
+* Levels 1-2:  [Wyvern]
+* Levels 1 & 3: [Dira]
+* Levels 3-4: [Behemoth]
+* Level 4: [Dragon]
+  * Rooms: [Pterodactyl]
 :::
 
 
-## [Ancient Ruins](@~) {##~}
+## [Ancient Ruins](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7039-ancient-ruins) {##ancient_ruins}
 
-`i` Level 2 has no enemies and contains an inn, weapon and armor shops. Dungeon has no boss.
-
-`quest` Check [MogNet] as [Refia] after completing the dungeon to continue the [Legendary Smith] side-quest.
-
-`i` Completing the ruins gives you the means to access [Bahamut's Lair] and [Lake Dhor] on the [Floating Continent].
-
-After getting Invincible: 69% chests, bestiary 68%: 1-139, from chests: 148-189 & 155, 196-207 (Odin)
+`i` The ruins have no boss; level 2 has no enemies and contains an [inn] and weapon & armor [shops].
 
 :::{:columns=small}
-##### `chest` Chests
-- Level 1:
-  * [Reflect Mail]
+##### Pickups
+* Level 1: [Reflect Mail]
 - Level 3:
   * [Black Belt Gi]
   * [Chakra Band]
   * [Rune Bell]
   * [Faerie Claws]
-##### `beast` Enemies
+##### Enemies
 * [Pyralis]
 * [Azrael]
 * [Eater]
@@ -65,45 +49,45 @@ After getting Invincible: 69% chests, bestiary 68%: 1-139, from chests: 148-189 
   * [Silenus]
   * [Gaap]
   * [Zombie Dragon]
-    Rare encounter; guaranteed in [Sunken Cave].
+    Rare here; guaranteed in [Sunken Cave].
 :::
 
+#### After completion
+`i` You can now access [Bahamut's Lair] and [Lake Dhor] on the [Floating Continent]. All [surface world] locations listed after Ancient Ruins are only accessible with the [Invincible].
 
-## [Falgabard](@~) {##~}
+* Check [MogNet] with [Refia] to continue the [Legendary Smith] side-quest.
+* Progress check: 69% chests, 68% bestiary: #1-#139, #148-189, #196-#207.
 
-Optional village southwest of [Saronia], slightly north of [Unei's Shrine].
 
-`quest item` Come here after acquiring [Orichalcum] and finishing [Doga's Grotto], and talk to the [Legendary Smith] to receive [Ultima Weapon] and finish her questline.
+
+## [Falgabard](@~) (optional) {##falgabard}
+
+Located southwest of [Saronia], slightly north of [Unei's Shrine].
 
 :::{:columns=small}
 #### Waterfall cave
 `x` Walk into the side of the waterfall in the northeast corner of the town.
 
-* `beast boss` [Shinobi]
+* 💬⚔️ [Shinobi]
+* Island:  `✨` [Demon Mail], [Hi-Potion], [Demon Shield], [Blessed Hammer]
 
-* `item` [Demon Mail], [Hi-Potion], [Demon Shield], [Blessed Hammer]
-
-  `x` Small island reachable by waterway.
-
-#### `chest` Cave
+#### Monster cave
 * [Blessed Hammer]
 * [Demon Mail]
 * [Ashura], [Kotetsu]
 :::
 
 
-## [Cave of Shadows](@~) {##~}
+## [Cave of Shadows](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7035-cave-of-shadows) {##cave_of_shadows}
 
 Located in the mountains in the middle of the easter continent.
 
 :::{:columns=small}
-##### `chest` Items
+##### Pickups
 - Level 1:
   * [Black Musk]
   * [Dark Claws]
-  * `item` [Kotetsu]
-    
-    `x` Talk to the second dark knight, near the exit to level 2.
+  * 💬 [Kotetsu]
 - Level 2:
   * [Tranquilizer]
   * [Lilith's Kiss]
@@ -112,7 +96,7 @@ Located in the mountains in the middle of the easter continent.
 * Level 7: [Genji Shield]
 * Level 8: [Genji Helm]
 * Level 9: [Genji Armor]
-##### `beast` Enemies
+##### Enemies
 - Levels 1 & 3+:
   * [Valefor]
   * [Haniel]
@@ -122,12 +106,12 @@ Located in the mountains in the middle of the easter continent.
 * Levels 3+: [Chronos]
 * Levels 6-9: [Death Claw]
   Guaranteed in [Sunken Cave].
-* `boss` Level 9: [Hecatoncheir]
+* Level 9: ★ [Hecatoncheir]
 :::
 
 
 
-## [Doga's Grotto](@~) {##~}
+## [Doga's Grotto](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7042-dogas-grotto) {##dogas_grotto}
 
 Accessed through [Doga's Manor] after completing [Cave of Shadows].
 
@@ -136,7 +120,7 @@ Accessed through [Doga's Manor] after completing [Cave of Shadows].
 `i` Level 3 is split into four parts (two of which are rooms).
 
 :::{:columns=small}
-##### `chests` Chests
+##### Pickups
 - Level 2:
   * $10000
   * $10000
@@ -146,12 +130,15 @@ Accessed through [Doga's Manor] after completing [Cave of Shadows].
 - Level 4:
   * [Phoenix Down]
   * [Phoenix Down]
-##### `beast` Enemies
+##### Enemies
 * [Peryton]
   Guaranteed in [Sunken Cave].
 * [Ogre]
 * [Cyclops]
 * [Nemesis]
 * [Humbaba]
-* `boss beast` Level 5: [Doga], [Unei]
+* Level 5: ★ [Doga], ★ [Unei]
 :::
+
+#### After completion
+* Go to [Falgabard] and talk to the [Legendary Smith] to receive [Ultima Weapon].

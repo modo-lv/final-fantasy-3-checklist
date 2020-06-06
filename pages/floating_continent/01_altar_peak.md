@@ -4,7 +4,7 @@
 
 You start the game on level 3 and can't go directly up; the upper levels can only be accessed by entering the cave from the [world map](floating_continent).
 
-`i` There's an [HP]/[MP] [Wellspring] on level 4.
+`i` There's a [recovery wellspring] on level 4.
 
 :::{:columns=small}
 ##### Pickups
@@ -27,7 +27,7 @@ You start the game on level 3 and can't go directly up; the upper levels can onl
   * [Carbuncle]
   * [Eye Fang]
   * [Blue Wisp]
-* `★` Level 5: [Land Turtle]
+* ★ Level 5: [Land Turtle]
 :::
   
 
@@ -36,20 +36,20 @@ You start the game on level 3 and can't go directly up; the upper levels can onl
 
 `i` The house with the blue roof contains both [revive and recovery wellsprings](wellspring) and the [inn] here is for free.
 
-* `💬` [Phoenix Down] (trade for a [Potion])
+* 💬 [Phoenix Down] (trade for a [Potion])
 
   `x` Talk to the blue-robed elder near the entrance after you've talked to [Topapa].
-* `✨` [Potion]
+* ✨ [Potion]
   
   `x` Near the bottom edge of the pond in the NE corner of the village.
-* `✨` [Potion]
+* ✨ [Potion]
   
   `x` Near the top edge of the small pond in the NW corner of the village.
 * 3x [Potion]
 
   `x` Down the well.
 #### Storehouse
-* `✨` 2x [Antidote]
+* ✨ 2x [Antidote]
 * [Eye Drops], [Phoenix Down], [Cure], [Dagger], [Longsword]
   
 
@@ -61,11 +61,11 @@ You start the game on level 3 and can't go directly up; the upper levels can onl
 - North of the pond:
 
   `x` You can reach the pond by going left of the [wellspring] building.
-  * `✨` [Mythril Helm]
-  * `✨` [Staff]
-  * `✨` [Zeus's Wrath]
-* `✨` [Potion] (inn)
-* `✨` [Potion] (blacksmith)
+  * ✨ [Mythril Helm]
+  * ✨ [Staff]
+  * ✨ [Zeus's Wrath]
+* ✨ [Potion] (inn)
+* ✨ [Potion] (blacksmith)
 * 2x [Mythril Sword]
 
 
@@ -84,7 +84,7 @@ You start the game on level 3 and can't go directly up; the upper levels can onl
 * [Holy Arrow], [Wooden Arrow]
 * [Wightslayer]
   
-  `⚔️` [Griffon]
+  ⚔️ [Griffon]
 ##### Enemies
 * [Red Wisp]
 * [Dark Eye]
@@ -112,6 +112,7 @@ You start the game on level 3 and can't go directly up; the upper levels can onl
   * [Larva]
   * [Revenant]
     Rare.
+  * ★ [Djinn]
 :::
 
 
@@ -122,8 +123,8 @@ You start the game on level 3 and can't go directly up; the upper levels can onl
   `x` In the SE corner of the village, reachable by waterway.
 
 #### Salina's House
-* `✨` [Mallet]
-* `✨` [Gold Needle]
+* ✨ [Mallet]
+* ✨ [Gold Needle]
 
 #### [Cid]'s basement
 `x` Accessed by finding [Elixir] and giving it to his wife.

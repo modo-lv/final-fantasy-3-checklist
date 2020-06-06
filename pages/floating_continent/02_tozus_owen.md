@@ -9,8 +9,8 @@
 
 #### Passage & tunnel
 * 2x [Phoenix Down]
-* `⚔️` [Leprechaun]
-* `⚔️` [Darkface]
+* ⚔️ [Leprechaun]
+* ⚔️ [Darkface]
 
 
 
@@ -35,7 +35,7 @@
 * Levels 2-3: [Blood Worm]
 - Level 3:
   * [Wererat]
-  * `★` [Giant Rat]
+  * ★ [Giant Rat]
 
 
 ## [Tokkul](@~) {##~}
@@ -46,21 +46,21 @@
 
 :::{:columns=small}
 #### Village
-* `✨` [Ice Staff]
+* ✨ [Ice Staff]
 
   `x` East edge of the village, slightly north of the rightmost house.
-* `✨` [Bacchu's Cider]
+* ✨ [Bacchu's Cider]
 
   `x` Bottom left corner of the village, in the boxes next to the orange house.
-* `✨` [Great Bow]
+* ✨ [Great Bow]
 
   `x` Top left corner of the village, at the front left corner of the orange house.
-* `✨` [Lamia Scale]
+* ✨ [Lamia Scale]
 
   `x` Top left corner of the village, just on the north side of the organge house.
 #### Mayor's house
-  * 1 [Serpent Sword], [Kenpo Gi]
-  * `✨` [Sonic Knuckles]
+  * [Serpent Sword], [Kenpo Gi]
+  * ✨ [Sonic Knuckles]
 :::
 
 
@@ -69,10 +69,10 @@
 
 Optional town at the southwest edge of the continent.
 
-* `💬` [Gnomish Bread]
+* 💬 [Gnomish Bread]
   
   `x` Talk to the read-headed boy in the crevice west of the inn, then go out to the Chocobo forest next to the village. Ride a chocobo along the edge of the continent all the way around and back to the village, and talk to the boy again.
-* `✨` [Serpent Sword]
+* ✨ [Serpent Sword]
 
   `x` North of the well, about halfway to the stairs.
 
@@ -80,7 +80,7 @@ Optional town at the southwest edge of the continent.
 
 ## [Gulgan Gulch](@~) {##~}
 
-* `💬` [Toad]
+* 💬 [Toad]
 * [Fire Staff], [Ice Staff], [Mage Robe]
 
 
@@ -110,7 +110,7 @@ Optional town at the southwest edge of the continent.
 - Levels 5-10:
   * [Blood Bat]
   * [Aughisky]
-* `★` Level 11: [Medusa]
+* Level 11: ★ [Medusa]
 
 :::
 
@@ -127,4 +127,4 @@ An optional village located on the eastern outer edge.
 
   `x` Behind the counter in the [Magic Key] shop.
 * Check your progress before leaving the continent:
-  You should have 39% of the chests and [bestiary] entries #1-#74 & #196-#202 (32%).
+  You should have 39% of the chests and 32% [bestiary] entries: #1-#74 & #196-#202.

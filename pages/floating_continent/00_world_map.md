@@ -2,11 +2,9 @@
 
 # The [Floating Continent](@~) [🗺️](https://steamcommunity.com/sharedfiles/filedetails/?id=664665374) {##floating_continent}
 
-`w` Some time after leaving the floating continent, you will permanently lose access to sea ships and therefore all sea enemies as well.
-
 ## Enemies {:columns=small}
 
-### `beast` Mainland
+### Mainland
 
 #### Northeast
 Encompasses [Ur], [Kazus] and [Castle Sasune].

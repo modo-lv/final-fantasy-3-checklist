@@ -1,13 +1,13 @@
 :{:checklist :columns}
 
-## [Crystal Tower](@~) {##~}
+## [Crystal Tower](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7031-crystal-tower) {##crystal_tower}
 
 `i` Unlocking the door to [Eureka] in the room on top of the large stairs on level 1 makes [Legendary Smith] appear in [Falgabard], making ultimate weapons available for each job.
 
-`w` The mirror on level 8 is the final point of no return. Once you approach it, you will have to finish the game without returning to the world map.
+`w` The mirror on level 8 is the final point of no return. Once you approach it, you will have to finish the story before you can return to the world map.
 
 :::{:columns=small}
-##### `chest` Chests
+##### Pickups
 - Level 1:
   * [Elven Bow]
   * [Chocobo's Wrath]
@@ -38,7 +38,7 @@
   * [Crystal Shield]
   * [Phoenix Down]
   * [Crystal Helm]
-##### `beast` Enemies
+##### Enemies
 - Level 1: 
   * [Gomory]
   * [Bluck]
@@ -59,41 +59,36 @@
   Rare here; common in [???](bonus).
 * Level 7: [Red Dragon]
   Rare here; common in [???](bonus).
-* `boss beast` Level 9: [Xande]
+* Level 9: ★ [Xande]
 :::
 
 
 
-## [World of Darkness](@~) {##~}
+## [World of Darkness](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7030-world-of-darkness) {##world_of_darkness}
 
-`w` The center portal leads to the path to the final boss and the ending of the game.
-
-:::
-
-##### `chest` Chests
-`w` All chests are trapped, triggering a fight with [Xande's Clone].
+##### Pickups
 * NW portal: [Ribbon]
+  ⚔️ [Xande's Clone]
 * NE portal: [Ribbon]
+  ⚔️ [Xande's Clone]
 * SE portal: [Ribbon]
+  ⚔️ [Xande's Clone]
 * SW portal: [Ribbon]
+  ⚔️ [Xande's Clone]
 
-##### `beast` Enemies
-* `boss beast` [Xande's Clone]
-  
-  `x` Chest trap.
+##### Enemies
 * NE, NW & SE portals: [Shadow Master]
 - NE, NW & SW portals: 
   * [Kage]
   * [Yormungand]
-* `boss beast` NW portal: [Cerberus]
+* NW portal: ★ [Cerberus]
 * NE, SE, SW & center portals: [Queen Scylla]
-* `boss beast` NE portal: [Two-Headed Dragon]
+* NE portal: ★ [Two-Headed Dragon]
 * SE & center portals: [Garm]
-* `boss beast` SE portal: [Ahriman]
-* `boss beast` SW portal: [Echidna]
+* SE portal: ★ [Ahriman]
+* SW portal: ★ [Echidna]
 - Center portal:
   * [Twin Dragon]
   * [Hydra]
     Very rare.
-  * `boss beast` [Cloud of Darkness]
-:::
+  * ★ [Cloud of Darkness]
