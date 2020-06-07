@@ -1,8 +1,8 @@
 :{:checklist :columns}
 
-## [Lake Dhor](@~) (optional) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7037-lake-dohr) {##lake_dhor}
+## [Lake Dhor](@) (optional) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7037-lake-dohr) {#lake_dhor}
 
-Optional dungeon in the mountains west of [Castle Argus], accessible with [Invincible].
+Located in a small lake in the mountains west of [Castle Argus], accessible with [Invincible].
 
 `w` This area, including all the enemies and chests, becomes permanently inaccessible after defeating the boss.
 
@@ -24,14 +24,15 @@ Optional dungeon in the mountains west of [Castle Argus], accessible with [Invin
 * [Plancti]
 * [Sea Lion]
 * [Remora]
-* Level 4: ★ [Leviathan]
+* `★` Level 4: [Leviathan]
 :::
 
 
 
 
-## [Bahamut's Lair](@~) (optional) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7050-bahamuts-lair) {##bahamuts_lair}
-Optional dungeon in the southeast corner of the [Floating Continent], accessible with [Invincible].
+## [Bahamut's Lair](@) (optional) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7050-bahamuts-lair) {#bahamuts_lair}
+
+Located in the southeast corner of the [Floating Continent], accessible with [Invincible].
 
 :::{:columns=small}
 ##### Pickups
@@ -54,5 +55,5 @@ Optional dungeon in the southeast corner of the [Floating Continent], accessible
   * [Sabertooth Liger]
 - Level 3:
   * [Queen Lamia]
-  * ★ [Bahamut]
+  * `★` [Bahamut]
 :::

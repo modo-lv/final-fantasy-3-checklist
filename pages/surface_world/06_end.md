@@ -1,6 +1,6 @@
 :{:checklist :columns}
 
-## [Crystal Tower](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7031-crystal-tower) {##crystal_tower}
+## [Crystal Tower](@) [🗺](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7031-crystal-tower) {#crystal_tower}
 
 `i` Unlocking the door to [Eureka] in the room on top of the large stairs on level 1 makes [Legendary Smith] appear in [Falgabard], making ultimate weapons available for each job.
 
@@ -59,36 +59,40 @@
   Rare here; common in [???](bonus).
 * Level 7: [Red Dragon]
   Rare here; common in [???](bonus).
-* Level 9: ★ [Xande]
+* `★` Level 9: [Xande]
 :::
 
 
 
-## [World of Darkness](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7030-world-of-darkness) {##world_of_darkness}
+## [World of Darkness](@) [🗺](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7030-world-of-darkness) {#world_of_darkness}
 
 ##### Pickups
 * NW portal: [Ribbon]
-  ⚔️ [Xande's Clone]
+
+  `⚔️` [Xande's Clone]
 * NE portal: [Ribbon]
-  ⚔️ [Xande's Clone]
+
+  `⚔️` [Xande's Clone]
 * SE portal: [Ribbon]
-  ⚔️ [Xande's Clone]
+
+  `⚔️` [Xande's Clone]
 * SW portal: [Ribbon]
-  ⚔️ [Xande's Clone]
+
+  `⚔️` [Xande's Clone]
 
 ##### Enemies
 * NE, NW & SE portals: [Shadow Master]
 - NE, NW & SW portals: 
   * [Kage]
   * [Yormungand]
-* NW portal: ★ [Cerberus]
+* `★` NW portal: [Cerberus]
 * NE, SE, SW & center portals: [Queen Scylla]
-* NE portal: ★ [Two-Headed Dragon]
+* `★` NE portal: [Two-Headed Dragon]
 * SE & center portals: [Garm]
-* SE portal: ★ [Ahriman]
-* SW portal: ★ [Echidna]
+* `★` SE portal: [Ahriman]
+* `★` SW portal: [Echidna]
 - Center portal:
   * [Twin Dragon]
   * [Hydra]
     Very rare.
-  * ★ [Cloud of Darkness]
+  * `★` [Cloud of Darkness]

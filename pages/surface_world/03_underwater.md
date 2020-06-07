@@ -6,7 +6,7 @@ Optional areas accessible with [Nautilus] after completing [Cave of the Circle].
 
 ::::{:columns}
 
-## [Sunken Cave](@~) (optional) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7036-sunken-cave) {##sunken_cave}
+## [Sunken Cave](@) (optional) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7036-sunken-cave) {#sunken_cave}
 
 Located under the tiny, triangle-shaped island at the very southeast corner of the world map. 
 
@@ -27,13 +27,17 @@ Located under the tiny, triangle-shaped island at the very southeast corner of t
   * [Phoenix Down]
   - Hidden room:
     * [Aegis Shield]
-      ⚔️ [Zombie Dragon]
+    
+      `⚔️` [Zombie Dragon]
     * [Trident]
-      ⚔️ [Peryton]
+    
+      `⚔️` [Peryton]
     * [Reflect Mail]
-      ⚔️ [Death Claw]
+    
+      `⚔️` [Death Claw]
     * [Triton Hammer]
-      ⚔️ [Eater]
+    
+      `⚔️` [Eater]
   
 ##### Enemies
 * [Killer Hermit]
@@ -46,7 +50,7 @@ Located under the tiny, triangle-shaped island at the very southeast corner of t
 :::
 
 
-## [Saronia Catacombs](@~) (optional) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7047-saronia-catacombs) {##saronia_catacombs}
+## [Saronia Catacombs](@) (optional) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7047-saronia-catacombs) {#saronia_catacombs}
 
 Located under [Saronia], accessible from the southeast corner.
 
@@ -62,10 +66,10 @@ Located under [Saronia], accessible from the southeast corner.
 - Level 4:
   * 4x [Elixir]
   
-    ⚔️ [Ouroboros]
+    `⚔️` [Ouroboros]
   * 4x [Phoenix Down]
 
-    ⚔️ [Cenchos]
+    `⚔️` [Cenchos]
 
 ##### Enemies
 * [Kyklops]
@@ -73,7 +77,7 @@ Located under [Saronia], accessible from the southeast corner.
 * [Fachan]
 * [Cenchos]
 * Levels 2 & 4: [Balor]
-* Level 5: [★ Odin](Odin)
+* `★` Level 5: [Odin]
 :::
 
 ::::

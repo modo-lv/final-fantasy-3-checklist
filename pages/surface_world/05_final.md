@@ -1,6 +1,6 @@
 :{:checklist :columns}
 
-## [Ancients' Maze](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7038-ancients-maze) {##ancients_maze}
+## [Ancients' Maze](@) [🗺](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7038-ancients-maze) {#ancients_maze}
 
 Located in the nothern mountains of the northeastern landmass.
 
@@ -29,14 +29,14 @@ Located in the nothern mountains of the northeastern landmass.
 * [Greater Demon]
 * [Unei's Clone]
 * [Thanatos]
-* Level 1 (room): ★ [Titan]
+* `★` Level 1 (room): [Titan]
 * Levels 2-3 & 5: [Bone Dragon]
 * Level 5: [King Behemoth]
   Very rare, extra powerful.
 :::
 
 
-## [Eureka](@~) (optional) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7032-eureka) {##eureka}
+## [Eureka](@) (optional) [🗺](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7032-eureka) {#eureka}
 
 Optional dungeon accessible through a door in the [Crystal Tower] after completing [Doga's Grotto].
 
@@ -52,7 +52,8 @@ Optional dungeon accessible through a door in the [Crystal Tower] after completi
   * [White Musk], [Elixir]
 - Level 2:
   * [Ribbon]
-    ⚔️ [Ninja](ninja_boss)
+  
+    `⚔️` [Ninja](ninja_boss)
   * Left room: [White Musk]
   * Right room: [White Musk], [Phoenix Down], [Chocobo's Wrath]
 - Level 3:
@@ -62,21 +63,26 @@ Optional dungeon accessible through a door in the [Crystal Tower] after completi
   * [Elixir]
   * [Shuriken]
   * [Phoenix Down]
-* Level 4: 💬 [Moonring Blade]
-  ⚔️ ★ [Amon]
+* `💬` Level 4: [Moonring Blade]
+
+  `⚔️ ★` [Amon]
 - Level 5:
   * [Omnirod]
-  * 💬 [Masamune]
-    ⚔️ ★ [Kunoichi]
+  * `💬` [Masamune]
+  
+    `⚔️ ★` [Kunoichi]
   * [Phoenix Down]
-* Level 6: 💬 [Excalibur]
-  ⚔️ ★ [General]
+* `💬` Level 6: [Excalibur]
+
+  `⚔️ ★` [General]
 - Level 7:
   * Rest area: 2x [Shuriken], 2x [Elixir]
-  * 💬 [The Elder Staff]
-    ⚔️ ★ [Scylla]
-  * 💬 [Ragnarok]
-    ⚔️ ★ [Guardian]
+  * `💬` [The Elder Staff]
+  
+    `⚔️ ★` [Scylla]
+  * `💬` [Ragnarok]
+  
+    `⚔️ ★` [Guardian]
 
 ##### Enemies
 * Levels 1-5: [Abaia]
@@ -89,7 +95,7 @@ Optional dungeon accessible through a door in the [Crystal Tower] after completi
 
 
 
-## [???](@~) {##bonus}
+## [???](@) {#bonus}
 
 Once unlocked, can be found underwater directly west of the very tip of the Dalg continent (where [Doga's Manor] is). See [the side-quest section](bonus_unlock) on how to unlock this dungeon.
 
@@ -99,4 +105,4 @@ Once unlocked, can be found underwater directly west of the very tip of the Dalg
 * [Yellow Dragon]
 * [Green Dragon]
 * [Red Dragon]
-* ★ [Iron Giant]
+* `★` [Iron Giant]

@@ -2,7 +2,7 @@
 
 # Side-quests {:columns}
 
-## Getting [Onion Knight](@~) {##~}
+## Getting [Onion Knight](@) {#:id}
 
 1. Unlock 25% of the [bestiary].
    If you find and defeat all new enemies as soon as they become available, you will reach this point when you finish [Tower of Owen]. You can check your [bestiary] in [Gysahl].
@@ -11,7 +11,7 @@
 4. Go to [Altar Cave] and complete the quest.
    
 
-## [Legendary Smith](@~) {##~}
+## [Legendary Smith](@) {#:id}
 
 Legendary Smith is the source of [Ultima Weapon] and job-specific [ultimate weapons](Ultimate_weapon_(term)#Final_Fantasy_III) for jobs that reach job level 99.
 

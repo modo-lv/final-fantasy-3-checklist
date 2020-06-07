@@ -1,6 +1,6 @@
 :{:checklist :columns}
 
-## [Duster](@~) (optional) {##duster}
+## [Duster](@) (optional) {#duster}
 
 Located on the small island in the middle of the sea.
 
@@ -12,7 +12,7 @@ Located on the small island in the middle of the sea.
   `x` Next to the bard behind some trees at the north edge of the village.
 
 
-## [Replito](@~) (optional) {##replito}
+## [Replito](@) (optional) {#replito}
 
 Located at the northwest edge of the northwestern continent.
 
@@ -37,7 +37,7 @@ Located at the northwest edge of the northwestern continent.
 
 
 
-## [Saronia](@~) {##~}
+## [Saronia](@) {#:id}
 
 A large multi-town area located on the northwestern landmass.
 
@@ -46,14 +46,14 @@ A large multi-town area located on the northwestern landmass.
 `w` Entering the castle with [Alus] will lead directly to a boss fight.
 
 ::: {:columns=small}
-### [Northeast](Saronia#Northeastern_Saronia) {##~}
+### [Northeast](Saronia#Northeastern_Saronia) {#:id}
 
 * `✨` [Elixir]
 
   `x` Next to a tree in the top right part of the town.
 
 
-### [Southwest](Saronia#Southwestern_Saronia) {##~}
+### [Southwest](Saronia#Southwestern_Saronia) {#:id}
 
 `w` Entering the tavern (large building in the top right corner of the area) will lead to a fight with 3 [Gold Knight]s.
 
@@ -62,18 +62,18 @@ A large multi-town area located on the northwestern landmass.
 ###### With [Alus] in your party
 * `💬` [Dragon Mail]
 
-  `x` Talk to the old man in an orange robe on the small platform in the middle of the town.
+  `x` The orange-robed elder on the small platform in the middle of the town.
 
 * `💬` [Wind Spear]
 
-  `x` Talk to the old man in an orange robe at the bottom left corner of the area.
+  `x` The orange-robed elder at the bottom left corner of the area.
 
-### [Southeast](Saronia#Southeastern_Saronia) {##~}
+### [Southeast](Saronia#Southeastern_Saronia) {#:id}
 
 * 2x [Dragon Helm], 2x [Dragon Mail], [Thunder Spear], [Phoenix Down]
 * 2x [Dragon Spear], 2x [Dragon Helm], [Dragon Mail], [Phoenix Down]
 
-### Castle {##~}
+### Castle {#:id}
 
 * 1 [Main Gauche], [Boomerang], [Selene Bow], [Tome of Light], [Scholar Hat], [Tome of Ice], [Golem Staff], [Dragon Hammer], [Tome of Fire], [Ice Rod], [Medusa Arrow], [Rusty Mail]
 
@@ -86,7 +86,7 @@ A large multi-town area located on the northwestern landmass.
 
 
 
-## [Cave of the Circle](@~) {##~}
+## [Cave of the Circle](@) {#:id}
 
 ##### `beast` Enemies
 * [Demon Horse]

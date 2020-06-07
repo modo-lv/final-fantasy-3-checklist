@@ -1,6 +1,6 @@
 :{:checklist}
 
-# The [Floating Continent](@~) [🗺️](https://steamcommunity.com/sharedfiles/filedetails/?id=664665374) {##floating_continent}
+# The [Floating Continent](@) [🗺️](https://steamcommunity.com/sharedfiles/filedetails/?id=664665374) {#floating_continent}
 
 ## Enemies {:columns=small}
 

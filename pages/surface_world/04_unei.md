@@ -1,6 +1,6 @@
 :{:checklist :columns}
 
-## [Temple of Time](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7045-temple-of-time) {##temple_of_time}
+## [Temple of Time](@) [🗺](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7045-temple-of-time) {#temple_of_time}
 
 `i` The temple contains 7 locked doors and no boss.
 
@@ -28,7 +28,7 @@
 :::
 
 
-## [Ancient Ruins](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7039-ancient-ruins) {##ancient_ruins}
+## [Ancient Ruins](@) [🗺](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7039-ancient-ruins) {#ancient_ruins}
 
 `i` The ruins have no boss; level 2 has no enemies and contains an [inn] and weapon & armor [shops].
 
@@ -53,14 +53,16 @@
 :::
 
 #### After completion
-`i` You can now access [Bahamut's Lair] and [Lake Dhor] on the [Floating Continent]. All [surface world] locations listed after Ancient Ruins are only accessible with the [Invincible].
 
-* Check [MogNet] with [Refia] to continue the [Legendary Smith] side-quest.
+`i` You can access [Bahamut's Lair] and [Lake Dhor] on the [Floating Continent]. All [surface world] locations listed after Ancient Ruins are only accessible with the [Invincible].
+
+`i` The [Legendary Smith] quest can be advanced another step.
+
 * Progress check: 69% chests, 68% bestiary: #1-#139, #148-189, #196-#207.
 
 
 
-## [Falgabard](@~) (optional) {##falgabard}
+## [Falgabard](@) (optional) {#falgabard}
 
 Located southwest of [Saronia], slightly north of [Unei's Shrine].
 
@@ -68,7 +70,7 @@ Located southwest of [Saronia], slightly north of [Unei's Shrine].
 #### Waterfall cave
 `x` Walk into the side of the waterfall in the northeast corner of the town.
 
-* 💬⚔️ [Shinobi]
+* `💬 ⚔️` [Shinobi]
 * Island:  `✨` [Demon Mail], [Hi-Potion], [Demon Shield], [Blessed Hammer]
 
 #### Monster cave
@@ -78,7 +80,7 @@ Located southwest of [Saronia], slightly north of [Unei's Shrine].
 :::
 
 
-## [Cave of Shadows](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7035-cave-of-shadows) {##cave_of_shadows}
+## [Cave of Shadows](@) [🗺](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7035-cave-of-shadows) {#cave_of_shadows}
 
 Located in the mountains in the middle of the easter continent.
 
@@ -87,7 +89,7 @@ Located in the mountains in the middle of the easter continent.
 - Level 1:
   * [Black Musk]
   * [Dark Claws]
-  * 💬 [Kotetsu]
+  * `💬` [Kotetsu]
 - Level 2:
   * [Tranquilizer]
   * [Lilith's Kiss]
@@ -106,12 +108,12 @@ Located in the mountains in the middle of the easter continent.
 * Levels 3+: [Chronos]
 * Levels 6-9: [Death Claw]
   Guaranteed in [Sunken Cave].
-* Level 9: ★ [Hecatoncheir]
+* `★` Level 9: [Hecatoncheir]
 :::
 
 
 
-## [Doga's Grotto](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7042-dogas-grotto) {##dogas_grotto}
+## [Doga's Grotto](@) [🗺](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7042-dogas-grotto) {#dogas_grotto}
 
 Accessed through [Doga's Manor] after completing [Cave of Shadows].
 
@@ -137,8 +139,8 @@ Accessed through [Doga's Manor] after completing [Cave of Shadows].
 * [Cyclops]
 * [Nemesis]
 * [Humbaba]
-* Level 5: ★ [Doga], ★ [Unei]
+* `★` Level 5: [Doga], [Unei]
 :::
 
 #### After completion
-* Go to [Falgabard] and talk to the [Legendary Smith] to receive [Ultima Weapon].
+`i` The [Legendary Smith] quest can now be completed.

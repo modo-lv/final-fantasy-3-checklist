@@ -1,6 +1,6 @@
 :{:checklist}
 
-# Surface World [🗺️](https://steamcommunity.com/sharedfiles/filedetails/?id=664665374) {##surface_world .#world}
+# Surface World [🗺️](https://steamcommunity.com/sharedfiles/filedetails/?id=664665374) {#surface_world,world}
 
 `w` Flying over Castle [Saronia] (on the east edge of the northwest landmass) after unchaining your ship will *permanently remove all access to sea surface enemies* (including on the [Floating Continent]). You will also be trapped in [Saronia] until you progress with the story, including defeating a boss.
 

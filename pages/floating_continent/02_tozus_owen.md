@@ -1,7 +1,7 @@
 :{:checklist :columns}
 
 
-## [Tozus](@~) {##~ :columns=small}
+## [Tozus](@) {#tozus :columns=small}
 
 #### Doctor Shelco's house
 * [Mythril Bracers], [Fire Staff], [Fira]
@@ -9,12 +9,12 @@
 
 #### Passage & tunnel
 * 2x [Phoenix Down]
-* ⚔️ [Leprechaun]
-* ⚔️ [Darkface]
+* `⚔️` [Leprechaun]
+* `⚔️` [Darkface]
 
 
 
-## [Vikings' Cove](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7046-vikings-cove) {##vikings_cove}
+## [Vikings' Cove](@) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7046-vikings-cove) {#vikings_cove}
 
 `i` There's a [revive wellspring] in the room with the [Viking Axe] and $3000 chests.
 
@@ -24,7 +24,7 @@
 
 
 
-## [Nepto Temple](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7053-nepto-temple) {##nepto_temple :columns=small}
+## [Nepto Temple](@) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7053-nepto-temple) {#nepto_temple :columns=small}
 ##### Pickups
 * [Shell Armor], [Shell Helm]
 * [Serpent Sword]
@@ -35,10 +35,10 @@
 * Levels 2-3: [Blood Worm]
 - Level 3:
   * [Wererat]
-  * ★ [Giant Rat]
+  * `★` [Giant Rat]
 
 
-## [Tokkul](@~) {##~}
+## [Tokkul](@) {#:id}
 
 `i` Does not contain any [shop]s, [wellspring]s or an [inn].
 
@@ -46,46 +46,46 @@
 
 :::{:columns=small}
 #### Village
-* ✨ [Ice Staff]
+* `✨` [Ice Staff]
 
   `x` East edge of the village, slightly north of the rightmost house.
-* ✨ [Bacchu's Cider]
+* `✨` [Bacchu's Cider]
 
   `x` Bottom left corner of the village, in the boxes next to the orange house.
-* ✨ [Great Bow]
+* `✨` [Great Bow]
 
   `x` Top left corner of the village, at the front left corner of the orange house.
-* ✨ [Lamia Scale]
+* `✨` [Lamia Scale]
 
   `x` Top left corner of the village, just on the north side of the organge house.
 #### Mayor's house
   * [Serpent Sword], [Kenpo Gi]
-  * ✨ [Sonic Knuckles]
+  * `✨` [Sonic Knuckles]
 :::
 
 
 
-## [Village of the Ancients](@~) {##~}
+## [Village of the Ancients](@) {#:id}
 
 Optional town at the southwest edge of the continent.
 
-* 💬 [Gnomish Bread]
+* `💬` [Gnomish Bread]
   
   `x` Talk to the read-headed boy in the crevice west of the inn, then go out to the Chocobo forest next to the village. Ride a chocobo along the edge of the continent all the way around and back to the village, and talk to the boy again.
-* ✨ [Serpent Sword]
+* `✨` [Serpent Sword]
 
   `x` North of the well, about halfway to the stairs.
 
  
 
-## [Gulgan Gulch](@~) {##~}
+## [Gulgan Gulch](@) {#:id}
 
-* 💬 [Toad]
+* `💬` [Toad]
 * [Fire Staff], [Ice Staff], [Mage Robe]
 
 
 
-## [Tower of Owen](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7033-tower-of-owen) {##tower_of_owen}
+## [Tower of Owen](@) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7033-tower-of-owen) {#tower_of_owen}
 
 `i` If you haven't missed any enemies, by the time you finish the tower, you should have enough of the [bestiary] unlocked to [get Onion Knight](getting_onion_knight).
 
@@ -110,12 +110,12 @@ Optional town at the southwest edge of the continent.
 - Levels 5-10:
   * [Blood Bat]
   * [Aughisky]
-* Level 11: ★ [Medusa]
+* `★` Level 11: [Medusa]
 
 :::
 
 
-## [Gysahl](@~) {##~}
+## [Gysahl](@) {#:id}
 
 An optional village located on the eastern outer edge.
 

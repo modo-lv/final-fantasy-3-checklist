@@ -63,8 +63,6 @@
     * [Getting Onion Knight]
     * [Legendary Smith]
     * [???](bonus_unlock)
-  * Reference
-    * [Job stats]
 * About
   * [This guide](about)
   * [Sources]

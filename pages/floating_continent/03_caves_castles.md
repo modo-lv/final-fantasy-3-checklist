@@ -1,6 +1,6 @@
 :{:checklist :columns}
 
-## [Dwarven Hollows](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7043-dwarven-hollows) {##dwarven_hollows}
+## [Dwarven Hollows](@) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7043-dwarven-hollows) {#dwarven_hollows}
 
 Located on an island in the northwest edge of the outer sea.
 
@@ -18,7 +18,7 @@ Located on an island in the northwest edge of the outer sea.
 
 
 
-## [Subterranean Lake](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7048-subterranean-lake) {##subterranean_lake}
+## [Subterranean Lake](@) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7048-subterranean-lake) {#subterranean_lake}
 
 Accessed through [Dwarven Hollows].
 
@@ -43,12 +43,12 @@ Accessed through [Dwarven Hollows].
   * [Sea Devil]
   * [Merman]
   * [Ruinous Wave]
-  * ★ [Gutsco]
+  * `★` [Gutsco]
 
 :::
 
 
-## [Molten Cave](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7040-molten-cave) {##molten_cave}
+## [Molten Cave](@) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7040-molten-cave) {#molten_cave}
 
 :::{:columns=small}
 
@@ -77,12 +77,12 @@ Accessed through [Dwarven Hollows].
 * [Adamantoise]
 * [Red Marshmallow]
 * Levels 2+: [Myrmecoleon]
-* ★ Level 5: [Salamander]
+* `★` Level 5: [Salamander]
 
 :::
 
 
-## [Castle Hein](@~) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7034-castle-hein) {##castle_hein}
+## [Castle Hein](@) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7034-castle-hein) {#castle_hein}
 
 `w` This location becomes permanently unavailable after defeating the boss, along with all the listed enemies and chests.
 
@@ -94,7 +94,7 @@ Accessed through [Dwarven Hollows].
 
 ::: {:columns=small}
 ##### Pickups
-* 💬 Level 1: [Mini]
+* `💬` Level 1: [Mini]
 - Level 2:
   * [Holy Arrow]
   * 2x [Phoenix Down]
@@ -114,11 +114,11 @@ Accessed through [Dwarven Hollows].
 * Levels 2-6: [Pharaoh]
 * Level 4: [Dullahan]
 * Levels 5-6: [Lamia]
-* Level 7: ★ [Hein]
+* `★` Level 7: [Hein]
 :::
 
 
-## [Castle Argus](@~) {##~}
+## [Castle Argus](@) {#:id}
 
 Located on the east edge of the western landmass.
 
