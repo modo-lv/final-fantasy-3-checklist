@@ -12,9 +12,9 @@
 `i` Level 1 is split into three sections, each containing a bridge.
 
 :::{:columns=small}
-##### Pickups
+###### Pickups
 * Level 3: [Blizzaga]
-##### Enemies
+###### Enemies
 * [Twin Heads]
 * [Roper]
 * Levels 1-2: [Poison Toad]
@@ -29,7 +29,7 @@
 
 `i` You can check [MogNet] with [Ingus] to start [Legendary Smith] quest, but you have to finish [Goldor Manor] to continue.
 
-#### Canals
+##### Canals
 Accessible after the gate to the sewers has been opened.
 * Flower bed: 4x [Gysahl Greens]
 - Small island in the NW corner:
@@ -37,16 +37,16 @@ Accessible after the gate to the sewers has been opened.
   * [Black Garb]
   * [Thief Gloves]
 
-#### [Sewers](@) {#:id :columns=small}
+##### [Sewers](@) {#:id :columns=small}
 
-##### Pickups
+###### Pickups
 * Level 2: [Cat Claws]
 - Level 4:
   * Right room: [Diamond Bell], [Hammer]
   - Left room:
     * [Kaiser Knuckles]
     * [Poison Dagger], [Power Bracers]
-##### Enemies
+###### Enemies
 - Levels 1-2 & 4:
   * [Darklegs]
   * [Gigantoad]
@@ -63,9 +63,9 @@ Located southeast from Amur.
 
 :::{:columns=small}
 
-##### Pickups
+###### Pickups
 * Library: 11x [Golden Sword], [Wyvern Claws]
-##### Enemies
+###### Enemies
 * [Gold Bear]
 - Main hall:
   * [Gold Eagle]

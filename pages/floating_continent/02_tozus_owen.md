@@ -3,11 +3,11 @@
 
 ## [Tozus](@) {#tozus :columns=small}
 
-#### Doctor Shelco's house
+##### Doctor Shelco's house
 * [Mythril Bracers], [Fire Staff], [Fira]
 * [Cura]
 
-#### Passage & tunnel
+##### Passage & tunnel
 * 2x [Phoenix Down]
 * `⚔️` [Leprechaun]
 * `⚔️` [Darkface]
@@ -25,10 +25,10 @@
 
 
 ## [Nepto Temple](@) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7053-nepto-temple) {#nepto_temple :columns=small}
-##### Pickups
+###### Pickups
 * [Shell Armor], [Shell Helm]
 * [Serpent Sword]
-##### Enemies
+###### Enemies
 * Level 1: [Lilliputian]
 * Levels 1-3: [Petit]
 * Level 2: [Poison Bat]
@@ -44,8 +44,8 @@
 
 `w` When you return here after completing [Dwarven Hollows] (including [Molten Cave]), you will be moved to [Castle Hein] and will have to complete it, boss included, in order to return. Once completed, the castle will become permanently unavailable.
 
-:::{:columns=small}
-#### Village
+::::{:columns=small}
+##### Village
 * `✨` [Ice Staff]
 
   `x` East edge of the village, slightly north of the rightmost house.
@@ -58,10 +58,11 @@
 * `✨` [Lamia Scale]
 
   `x` Top left corner of the village, just on the north side of the organge house.
-#### Mayor's house
-  * [Serpent Sword], [Kenpo Gi]
-  * `✨` [Sonic Knuckles]
-:::
+##### Mayor's house
+* [Serpent Sword], [Kenpo Gi]
+* `✨` [Sonic Knuckles]
+
+::::
 
 
 
@@ -91,7 +92,7 @@ Optional town at the southwest edge of the continent.
 
 :::{:columns=small}
 
-##### Pickups
+###### Pickups
 * Level 3: [Echo Herbs]
 * Level 5: [Spark Dagger]
 * Level 6: [Echo Herbs]
@@ -101,7 +102,7 @@ Optional town at the southwest edge of the continent.
   * 1 [Salamand Sword]
   * 1 [Flame Mail]
   * 1 [Zeu's Wrath]
-##### Enemies
+###### Enemies
 * [Far Darrig]
 * [Petit Mage]
 * Level 1: [Fury]

@@ -7,7 +7,7 @@ You start the game on level 3 and can't go directly up; the upper levels can onl
 `i` There's a [recovery wellspring] on level 4.
 
 :::{:columns=small}
-##### Pickups
+###### Pickups
 * Level 1: [Leather Cap], [Bronze Bracers]
 - Level 2:
   * [Longsword]
@@ -21,7 +21,7 @@ You start the game on level 3 and can't go directly up; the upper levels can onl
   * [Potion]
   * [Potion]
   * [Antarctic Wind]
-##### Enemies
+###### Enemies
 * Levels 1-3: [Goblin]
 - Levels 2 & 4:
   * [Carbuncle]
@@ -39,16 +39,16 @@ You start the game on level 3 and can't go directly up; the upper levels can onl
 * `💬` [Phoenix Down] (trade for a [Potion])
 
   `x` Talk to the blue-robed elder near the entrance after you've talked to [Topapa].
-* `✨` [Potion]
+* `✨` [Potion] (NE)
   
   `x` Near the bottom edge of the pond in the NE corner of the village.
-* `✨` [Potion]
+* `✨` [Potion] (NW)
   
   `x` Near the top edge of the small pond in the NW corner of the village.
 * 3x [Potion]
 
   `x` Down the well.
-#### Storehouse
+##### Storehouse
 * `✨` 2x [Antidote]
 * [Eye Drops], [Phoenix Down], [Cure], [Dagger], [Longsword]
   
@@ -58,34 +58,43 @@ You start the game on level 3 and can't go directly up; the upper levels can onl
 
 `i` The [inn] here is for free.
 
-- North of the pond:
+:::::{:columns=small}
 
-  `x` You can reach the pond by going left of the [wellspring] building.
-  * `✨` [Mythril Helm]
-  * `✨` [Staff]
-  * `✨` [Zeus's Wrath]
+:::
 * `✨` [Potion] (inn)
 * `✨` [Potion] (blacksmith)
 * 2x [Mythril Sword]
+:::
+
+- North of the pond:
+
+  `x` You can find the pond by going left of the [wellspring] building.
+  * `✨` [Mythril Helm]
+  * `✨` [Staff]
+  * `✨` [Zeus's Wrath]
+  
+:::::
 
 
 
 ## [Castle Sasune](@) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7639-sasune-castle-map) {#castle_sasune}
-#### East tower
+:::{:columns=small}
+##### East tower
 * [Holy Arrow], [Wooden Arrow]
 * [Bow], [Wooden Arrow], [Potion]
-####  Castle proper
+#####  Castle proper
 * [Phoenix Down]
 * 2x $1000
 * [Leather Shield], [Bronze Knuckles]
 * [Blizzard]
-####  West tower {:columns=small}
-##### Pickups 
+:::
+#####  West tower {:columns=small}
+###### Pickups 
 * [Holy Arrow], [Wooden Arrow]
 * [Wightslayer]
   
   `⚔️` [Griffon]
-##### Enemies
+###### Enemies
 * [Red Wisp]
 * [Dark Eye]
 * [Zombie]
@@ -95,7 +104,7 @@ You start the game on level 3 and can't go directly up; the upper levels can onl
 ## [Sealed Cave](@) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7049-sealed-cave) {#sealed_cave}
 
 ::: {:columns=small}
-##### Pickups
+###### Pickups
 - Level 1:
   * [Potion]
   * [Cure]
@@ -103,7 +112,7 @@ You start the game on level 3 and can't go directly up; the upper levels can onl
 - Level 3:
   * [Antarctic Wind]
   * [Eye Drops]
-##### Enemies
+###### Enemies
 * [Mummy]
 * Levels 1-2: [Skeleton]
 * Levels 1 & 3: [Cursed Copper]
@@ -118,28 +127,36 @@ You start the game on level 3 and can't go directly up; the upper levels can onl
 
 ## [Canaan](@) {#:id}
 
+::::{:columns=small}
+
+:::
+
+##### Outside
 * [Elixir]
 
-  `x` In the SE corner of the village, reachable by waterway.
+  `x` In the SE corner of the village, reachable by the canals.
 
-#### Salina's House
+##### Salina's House
 * `✨` [Mallet]
 * `✨` [Gold Needle]
+  
+:::
 
-#### [Cid]'s basement
-`x` Accessed by finding [Elixir] and giving it to his wife.
+##### `💬` [Cid]'s basement
+`x` Find an [Elixir] and give it to his wife to gain access.
 * [Blind], [Iron Arrow], [Great Bow], [Phoenix Down], 2x [Gnomish Bread], [Gold Needle], [Potion]
 * 2x $2000, 2x [Phoenix Down]
 
+::::
 
 
 ## [Dragon's Peak](@) {#:id :columns=small}
-##### Pickups
+###### Pickups
 * [Phoenix Down]
 * [Aero]
 * [Gold Needle]
 
-##### Enemies
+###### Enemies
 * [Firefly]
 * [Helldiver]
 * [Rukh]

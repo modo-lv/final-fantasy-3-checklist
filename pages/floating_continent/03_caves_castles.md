@@ -6,7 +6,7 @@ Located on an island in the northwest edge of the outer sea.
 
 `i` Does not have a [revive wellspring].
 
-### After [Molten Cave]
+#### After [Molten Cave]
 
 * `💬` Treasure room: [Gysahl Greens], [Heroic Shield], 2x [Phoenix Down], [Book of Light], [Knight Armor], [Scholar Hat], [Book of Ice], [Book of Fire], [Scholar Robe], [Gold Needle], [Gauntlets], [Killer Bow], [Ottershroom], [Elixir].
 * `💬` [Magic Key]
@@ -21,7 +21,7 @@ Accessed through [Dwarven Hollows].
 
 :::{:columns=small}
 
-##### Pickups
+###### Pickups
 * Level 1: [Gold Needle]
 - Level 2:
   * [Zeus' Wrath]
@@ -29,7 +29,7 @@ Accessed through [Dwarven Hollows].
   * [Gold Needle]
   * [Gold Needle]
 * Level 3: 2x $3000
-##### Enemies
+###### Enemies
 - Levels 1-2:
   * [Bomb]
   * [Manticore]
@@ -47,7 +47,7 @@ Accessed through [Dwarven Hollows].
 
 :::{:columns=small}
 
-##### Pickups
+###### Pickups
 - Level 1:
   * [Antarctic Wind] (safe)
   * [Antarctic Wind] (through lava)
@@ -66,7 +66,7 @@ Accessed through [Dwarven Hollows].
 - Level 3:
   * [Impact Claws]
   * [Phoenix Down]
-##### Enemies
+###### Enemies
 * [Balloon]
 * [Crocotta]
 * [Adamantoise]
@@ -88,7 +88,7 @@ You end up here automatically when you enter [Tokkul] after finishing the [Dwarv
 `i` Levels 2 and 4 are split into two sections. Level 5 is the branch outside.
 
 ::: {:columns=small}
-##### Pickups
+###### Pickups
 * `💬` Level 1: [Mini]
 - Level 2:
   * [Holy Arrow]
@@ -103,7 +103,7 @@ You end up here automatically when you enter [Tokkul] after finishing the [Dwarv
 - Level 6:
   * [Elixir]
   * [Rune Bow]
-##### Enemies
+###### Enemies
 * Levels 2-3 & 5-6: [Lemur]
 * Levels 2-4: [Demon]
 * Levels 2-6: [Pharaoh]

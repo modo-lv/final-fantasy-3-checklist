@@ -7,7 +7,7 @@ Located in a small lake in the mountains west of [Castle Argus], accessible with
 `w` This area, including all the enemies and chests, becomes permanently inaccessible after defeating the boss.
 
 :::{:columns=small}
-##### Pickups
+###### Pickups
 - Level 1:
   * [Phoenix Down], [Arctic Wind], [Heavenly Wrath], [Earthen Drums]
   * 3x [Hi-Potion], [Elixir]
@@ -18,7 +18,7 @@ Located in a small lake in the mountains west of [Castle Argus], accessible with
   * [Platinum Hammer], [Black Hole], [Reflect Mail]
   * [Black Musk]
   * [Lilith's Kiss], [Raven's Yawn]
-##### Enemies
+###### Enemies
 * [Ouroboros]
   Guaranteed in [Saronia Catacombs].
 * [Plancti]
@@ -35,7 +35,7 @@ Located in a small lake in the mountains west of [Castle Argus], accessible with
 Located in the southeast corner of the [Floating Continent], accessible with [Invincible].
 
 :::{:columns=small}
-##### Pickups
+###### Pickups
 - Level 1:
   * [Heavenly Wrath], [Earthen Drums]
   * [Phoenix Down], [Arctic Wind]
@@ -47,7 +47,7 @@ Located in the southeast corner of the [Floating Continent], accessible with [In
 - Level 3:
   * [Eurytos Bow]
   * [Phoenix Down], [Elixir], [Kotetsu]
-##### Enemies
+###### Enemies
 * [Drake]
 * Level 1: [Grenade]
 - Levels 2-3:

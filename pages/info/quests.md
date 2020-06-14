@@ -17,7 +17,7 @@ Legendary Smith is the source of [Ultima Weapon] and job-specific [ultimate weap
 
 1. After [Cave of Tides](~):
    Check [MogNet] with [Ingus] and read all four letters from [Princess Sara](Sara_Altney).
-1. Return to the [Flaoting Continent], talk to [Princess Sara](Sara_Altney) in [Castle Sasune] and then [Takka] in [Kazus].
+1. Return to the [Floating Continent], talk to [Princess Sara](Sara_Altney) in [Castle Sasune] and then [Takka] in [Kazus].
 1. After [Saronia](~):
    Check [MogNet] with [Luneth] or [Arc] and read all four letters from [Takka].
 1. Talk to the smith in [Northwester Saronia](Northwest).

@@ -1,11 +1,11 @@
 :{:checklist :columns}
 
-## [Temple of Time](@) [🗺](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7045-temple-of-time) {#temple_of_time}
+## [Temple of Time](@) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7045-temple-of-time) {#temple_of_time}
 
 `i` The temple contains 7 locked doors and no boss.
 
 :::{:columns=small}
-##### Pickups
+###### Pickups
 - Level 1:
   * [Diamond Bracers]
   * [Diamond Helm]
@@ -16,7 +16,7 @@
 - Level 4:
   * [Diamond Shield]
   * [Blood Lance], [Lamia Harp], [Protect Ring]
-##### Enemies
+###### Enemies
 * [Chimera Mage]
 * [King Lizard]
 * [King Seahorse]
@@ -28,19 +28,19 @@
 :::
 
 
-## [Ancient Ruins](@) [🗺](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7039-ancient-ruins) {#ancient_ruins}
+## [Ancient Ruins](@) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7039-ancient-ruins) {#ancient_ruins}
 
 `i` The ruins have no boss; level 2 has no enemies and contains an [inn] and weapon & armor [shops].
 
 :::{:columns=small}
-##### Pickups
+###### Pickups
 * Level 1: [Reflect Mail]
 - Level 3:
   * [Black Belt Gi]
   * [Chakra Band]
   * [Rune Bell]
   * [Faerie Claws]
-##### Enemies
+###### Enemies
 * [Pyralis]
 * [Azrael]
 * [Eater]
@@ -52,7 +52,7 @@
     Rare here; guaranteed in [Sunken Cave].
 :::
 
-#### After completion
+##### After completion
 
 `i` You can access [Bahamut's Lair] and [Lake Dhor] on the [Floating Continent]. All [surface world] locations listed after Ancient Ruins are only accessible with the [Invincible].
 
@@ -67,25 +67,25 @@
 Located southwest of [Saronia], slightly north of [Unei's Shrine].
 
 :::{:columns=small}
-#### Waterfall cave
+##### Waterfall cave
 `x` Walk into the side of the waterfall in the northeast corner of the town.
 
 * `💬 ⚔️` [Shinobi]
 * Island:  `✨` [Demon Mail], [Hi-Potion], [Demon Shield], [Blessed Hammer]
 
-#### Monster cave
+##### Monster cave
 * [Blessed Hammer]
 * [Demon Mail]
 * [Ashura], [Kotetsu]
 :::
 
 
-## [Cave of Shadows](@) [🗺](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7035-cave-of-shadows) {#cave_of_shadows}
+## [Cave of Shadows](@) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7035-cave-of-shadows) {#cave_of_shadows}
 
 Located in the mountains in the middle of the easter continent.
 
 :::{:columns=small}
-##### Pickups
+###### Pickups
 - Level 1:
   * [Black Musk]
   * [Dark Claws]
@@ -98,7 +98,7 @@ Located in the mountains in the middle of the easter continent.
 * Level 7: [Genji Shield]
 * Level 8: [Genji Helm]
 * Level 9: [Genji Armor]
-##### Enemies
+###### Enemies
 - Levels 1 & 3+:
   * [Valefor]
   * [Haniel]
@@ -113,7 +113,7 @@ Located in the mountains in the middle of the easter continent.
 
 
 
-## [Doga's Grotto](@) [🗺](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7042-dogas-grotto) {#dogas_grotto}
+## [Doga's Grotto](@) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7042-dogas-grotto) {#dogas_grotto}
 
 Accessed through [Doga's Manor] after completing [Cave of Shadows].
 
@@ -122,7 +122,7 @@ Accessed through [Doga's Manor] after completing [Cave of Shadows].
 `i` Level 3 is split into four parts (two of which are rooms).
 
 :::{:columns=small}
-##### Pickups
+###### Pickups
 - Level 2:
   * $10000
   * $10000
@@ -132,7 +132,7 @@ Accessed through [Doga's Manor] after completing [Cave of Shadows].
 - Level 4:
   * [Phoenix Down]
   * [Phoenix Down]
-##### Enemies
+###### Enemies
 * [Peryton]
   Guaranteed in [Sunken Cave].
 * [Ogre]
@@ -142,5 +142,5 @@ Accessed through [Doga's Manor] after completing [Cave of Shadows].
 * `★` Level 5: [Doga], [Unei]
 :::
 
-#### After completion
+##### After completion
 `i` The [Legendary Smith] quest can now be completed.

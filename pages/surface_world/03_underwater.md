@@ -14,7 +14,7 @@ Located under the tiny, triangle-shaped island at the very southeast corner of t
 
 :::{:columns=small}
 
-##### Pickups
+###### Pickups
 - Level 2:
   * [Tiger Claws]
   * [Chakram]
@@ -39,7 +39,7 @@ Located under the tiny, triangle-shaped island at the very southeast corner of t
     
       `⚔️` [Eater]
   
-##### Enemies
+###### Enemies
 * [Killer Hermit]
 * [Ologhai]
 * [Kelpie]
@@ -57,7 +57,7 @@ Located under [Saronia], accessible from the southeast corner.
 `w` The boss here is the *only source the weapon [Gungnir] in the game*, and the only way to get it from him reliably is to steal it with a [Thief] of job level 71 or higher.
 
 :::{:columns=small}
-##### Pickups
+###### Pickups
 - Level 3:
   * [Rune Bell], [Aegis Shield]
   * [Golem Staff]
@@ -71,7 +71,7 @@ Located under [Saronia], accessible from the southeast corner.
 
     `⚔️` [Cenchos]
 
-##### Enemies
+###### Enemies
 * [Kyklops]
 * [Boss Troll]
 * [Fachan]

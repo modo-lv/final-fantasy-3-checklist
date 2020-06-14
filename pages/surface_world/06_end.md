@@ -1,13 +1,13 @@
 :{:checklist :columns}
 
-## [Crystal Tower](@) [🗺](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7031-crystal-tower) {#crystal_tower}
+## [Crystal Tower](@) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7031-crystal-tower) {#crystal_tower}
 
-`i` Unlocking the door to [Eureka] in the room on top of the large stairs on level 1 makes [Legendary Smith] appear in [Falgabard], making ultimate weapons available for each job.
+`i` Unlocking the door to [Eureka] in the room on top of the large stairs on level 1 is one of the final steps in unlocking the [Legendary Smith].
 
 `w` The mirror on level 8 is the final point of no return. Once you approach it, you will have to finish the story before you can return to the world map.
 
 :::{:columns=small}
-##### Pickups
+###### Pickups
 - Level 1:
   * [Elven Bow]
   * [Chocobo's Wrath]
@@ -38,7 +38,7 @@
   * [Crystal Shield]
   * [Phoenix Down]
   * [Crystal Helm]
-##### Enemies
+###### Enemies
 - Level 1: 
   * [Gomory]
   * [Bluck]
@@ -64,9 +64,9 @@
 
 
 
-## [World of Darkness](@) [🗺](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7030-world-of-darkness) {#world_of_darkness}
+## [World of Darkness](@) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7030-world-of-darkness) {#world_of_darkness}
 
-##### Pickups
+###### Pickups
 * NW portal: [Ribbon]
 
   `⚔️` [Xande's Clone]
@@ -80,7 +80,7 @@
 
   `⚔️` [Xande's Clone]
 
-##### Enemies
+###### Enemies
 * NE, NW & SE portals: [Shadow Master]
 - NE, NW & SW portals: 
   * [Kage]

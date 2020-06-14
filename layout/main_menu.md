@@ -54,7 +54,7 @@
   * Endgame
     * [Crystal Tower]
     * [World of Darkness]
-* Info
+* Game
   * Gameplay
     * [Miscellaneous]
     * [Stats and leveling](gameplay_stats)

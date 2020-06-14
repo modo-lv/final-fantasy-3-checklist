@@ -13,7 +13,7 @@ A couple of notes:
 * `★` marks a boss.
 * `w` Warnings contain important information about something that can have serious negative consequences for your playthrough. Most often they're about losing access to a location, item or enemy, often permanently.
 * `i` Information is potentially helpful but not vital information, such as a shop selling a special item or when a quest becomes available at a certain location.
-* `x`{:label} Explanation (or "X marks the spot") is detailed information on where to find and how to access the item/character/location/etc.
+* 🔎 Explanation is detailed information on where to find and how to access the item/character/location/etc. Click on the icon to display it.
 
 ## Sources {#sources}
 

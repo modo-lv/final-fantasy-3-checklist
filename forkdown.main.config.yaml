@@ -11,7 +11,7 @@ externalLinks:
     - [ "MogNet", "Mognet" ]
     - [ "(revive |recovery |status removal )?[Ww]ellspring", "Healing spring (location)#Final Fantasy III" ]
     # Enemies
-    - pattern: Abaia|Azrael|Basilisk|Berserker|Bugbear|Carbuncle|Cockatrice|Dira|Duster|Eater|Firefly|Fury|Garm|Gomory|Gorgon|Greater Demon|Griffon|Helldiver|Killer Bee|King Behemoth|Knocker|Lemur|Lizardman|Ouroboros|Rukh|Salamander|Sea Dragon|Vulcan|Werewolf|Xande's Clone|.* Dragon
+    - pattern: Abaia|Azrael|Basilisk|Berserker|Bugbear|Carbuncle|Cockatrice|Dira|Duster|Eater|Firefly|Fury|Garm|Gomory|Gorgon|Greater Demon|Griffon|Helldiver|Killer Bee|King Behemoth|Knocker|Lemur|Lizardman|Ouroboros|Red Cap|Rukh|Salamander|Sea Dragon|Vulcan|Werewolf|Xande's Clone|.* Dragon
       rewrite: $0 (Final Fantasy III)
     # Bosses
     - pattern: Amon|General|Guardian|Iron Giant|Kunoichi|Shinobi|Scylla

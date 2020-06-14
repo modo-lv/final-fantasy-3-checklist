@@ -1,13 +1,13 @@
 :{:checklist :columns}
 
-## [Ancients' Maze](@) [🗺](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7038-ancients-maze) {#ancients_maze}
+## [Ancients' Maze](@) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7038-ancients-maze) {#ancients_maze}
 
 Located in the nothern mountains of the northeastern landmass.
 
 `i` The first door on level 1 leads directly to the [Earth Crystal], while the rest of the levels eventually exit through the world map to the [Crystal Tower].
 
 :::{:columns=small}
-##### Pickups
+###### Pickups
 * Level 1: [Elixir]
 - Level 2:
   * [Lilith's Kiss], [Crystal Shield]
@@ -24,7 +24,7 @@ Located in the nothern mountains of the northeastern landmass.
 - Level 5:
   * [Holy Lance]
   * [Hellish Claws]
-##### Enemies
+###### Enemies
 * [Iron Claws]
 * [Greater Demon]
 * [Unei's Clone]
@@ -36,7 +36,7 @@ Located in the nothern mountains of the northeastern landmass.
 :::
 
 
-## [Eureka](@) (optional) [🗺](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7032-eureka) {#eureka}
+## [Eureka](@) (optional) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7032-eureka) {#eureka}
 
 Optional dungeon accessible through a door in the [Crystal Tower] after completing [Doga's Grotto].
 
@@ -46,7 +46,7 @@ Optional dungeon accessible through a door in the [Crystal Tower] after completi
 
 
 :::{:columns=small}
-##### Pickups
+###### Pickups
 - Level 1:
   * [Chocobo's Wrath], [Fuma Garb]
   * [White Musk], [Elixir]
@@ -84,7 +84,7 @@ Optional dungeon accessible through a door in the [Crystal Tower] after completi
   
     `⚔️ ★` [Guardian]
 
-##### Enemies
+###### Enemies
 * Levels 1-5: [Abaia]
 - Levels 1-4 & 6-7:
   * [Sleipnir]
@@ -101,7 +101,7 @@ Once unlocked, can be found underwater directly west of the very tip of the Dalg
 
 `i` This is an exceedingly difficult area with the strongest enemies in the game, meant for grinding levels and [Onion Knight] equipment. You will need to level up a lot to stand a chance against the boss (fighting him at level 75 is a considered a low level challenge), and once you're strong enough to defeat him, the rest of the game (including the final boss) will pose very little challenge, if any.
 
-##### Enemies
+###### Enemies
 * [Yellow Dragon]
 * [Green Dragon]
 * [Red Dragon]
