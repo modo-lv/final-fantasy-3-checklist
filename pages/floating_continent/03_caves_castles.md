@@ -8,13 +8,8 @@ Located on an island in the northwest edge of the outer sea.
 
 ### After [Molten Cave]
 
-* Treasure room: [Gysahl Greens], [Heroic Shield], 2x [Phoenix Down], [Book of Light], [Knight Armor], [Scholar Hat], [Book of Ice], [Book of Fire], [Scholar Robe], [Gold Needle], [Gauntlets], [Killer Bow], [Ottershroom], [Elixir].
-
-  `x` Talk to the dwarf in the bottom right corner of the main hall.
-  
-* `item` [Magic Key]
-
-  `x` Talk to the dwarf leader.
+* `💬` Treasure room: [Gysahl Greens], [Heroic Shield], 2x [Phoenix Down], [Book of Light], [Knight Armor], [Scholar Hat], [Book of Ice], [Book of Fire], [Scholar Robe], [Gold Needle], [Gauntlets], [Killer Bow], [Ottershroom], [Elixir].
+* `💬` [Magic Key]
 
 
 
@@ -84,13 +79,13 @@ Accessed through [Dwarven Hollows].
 
 ## [Castle Hein](@) [🗺️](https://gamefaqs.gamespot.com/pc/793808-final-fantasy-iii/map/7034-castle-hein) {#castle_hein}
 
+You end up here automatically when you enter [Tokkul] after finishing the [Dwarven Hollows].
+
 `w` This location becomes permanently unavailable after defeating the boss, along with all the listed enemies and chests.
 
 `i` There's a [recovery wellspring] hidden in a pot in the rightmost room on level 1.
 
 `i` Levels 2 and 4 are split into two sections. Level 5 is the branch outside.
-
-`x` You are brought here automatically when you enter [Tokkul] after finishing the [Dwarven Hollows].
 
 ::: {:columns=small}
 ##### Pickups

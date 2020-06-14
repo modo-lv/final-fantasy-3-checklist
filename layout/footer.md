@@ -1,1 +1,1 @@
-Made by [modo_lv](//modo.lv). More guides at [guides.modo.lv](//guides.modo.lv).
+Made by [modo_lv](http://modo.lv) with [Forkdown](https://github.com/modo-lv/Forkdown), source on [GitHub](https://github.com/modo-lv/final-fantasy-3-checklist). More guides at [guides.modo.lv](http://guides.modo.lv).
