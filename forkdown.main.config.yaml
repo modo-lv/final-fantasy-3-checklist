@@ -11,7 +11,7 @@ externalLinks:
     - [ "MogNet", "Mognet" ]
     - [ "(revive |recovery |status removal )?[Ww]ellspring", "Healing spring (location)#Final Fantasy III" ]
     # Enemies
-    - pattern: Abaia|Azrael|Basilisk|Berserker|Bugbear|Carbuncle|Cockatrice|Dira|Duster|Eater|Firefly|Fury|Garm|Gomory|Gorgon|Greater Demon|Griffon|Helldiver|Killer Bee|King Behemoth|Knocker|Lemur|Lizardman|Ouroboros|Red Cap|Rukh|Salamander|Sea Dragon|Vulcan|Werewolf|Xande's Clone|.* Dragon
+    - pattern: Abaia|Abtu|Acheron|Adamantoise|Aegir|Aeon|Anet|Azrael|Bahamut|Balloon|Balor|Barometz|Basilisk|Behemoth|Berserker|Black Flan|Blood Bat|Blue Wisp|Bomb|Bugbear|Carbuncle|Catoblepas|Charybdis|Chimera|Chronos|Cyclops|Cockatrice|Dark Eye|Darklegs|Death Claw|Death Needle|Demon|Dira|Djinn|Dragon|Drake|Dullahan|Duster|Eater|Fachan|Firefly|Fury|Gargoyle|Garm|Gigantoad|Goblin|Gold Bear|Gold Eagle|Gomory|Gorgon|Greater Demon|Grenade|Griffon|Gutsco|Haokah|Harpy|Hecatoncheir|Hein|Helldiver|Hermit|Hornet|Humbaba|Iron Claw|Kelpie|Killer Bee|Killer Fish|King Behemoth|King Lizard|Knocker|Kraken|Lamia|Land Turtle|Larva|Lemur|Leviathan|Lizardman|Lynx|Magician|Mandrake|Manticore|Medusa|Mermaid|Merman|Minotaur|Myrmecoleon|Mummy|Nemesis|Nightmare|Oceanus|Ogre|Ouroboros|Peryton|Pharaoh|Poison Bat|Poison Toad|Red Cap|Red Marshmallow|Red Wisp|Remora|Revenant|Rock Gargoyle|Roper|Rukh|Sahagin|Salamander|Sand Worm|Sea Devil|Sea Dragon|Sea Serpent|Shadow|Simurgh|Skeleton|Sleipnir|Slime|Sorcerer|Stalagmite|Stroper|Tarantula|Thanatos|Titan|Twin Heads|Unei's Clone|Valefor|Vassago|Vulcan|Wererat|Werewolf|Wyvern|Xande's Clone|Zombie|.* Dragon
       rewrite: $0 (Final Fantasy III)
     # Bosses
     - pattern: Amon|General|Guardian|Iron Giant|Kunoichi|Shinobi|Scylla
@@ -57,7 +57,7 @@ externalLinks:
     - pattern: Ultima Weapon|Gungnir
       rewrite: $0 (weapon)#Final_Fantasy_III
     # Magic
-    - pattern: ^(Blizzaga|Blizzara|Blizzard|Fira|Firaga|Fire|Mini|Sleep|Thundaga|Thundara|Thunder|Toad)
+    - pattern: ^(Blizzaga|Blizzara|Blizzard|Fira|Firaga|Fire|Mini|Sleep|Thundaga|Thundara|Thunder|Toad)$
       rewrite: $0 (ability)#Final Fantasy III
     # Stats
     - [ "Agility", "Speed" ]
